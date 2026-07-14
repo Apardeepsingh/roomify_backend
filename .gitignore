@@ -1,0 +1,16 @@
+# secrets
+.env
+
+# virtual env
+roomify_env/
+
+# python
+__pycache__/
+*.pyc
+
+# data
+*.npy
+
+# os
+.DS_Store
+Icon?

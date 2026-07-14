@@ -1,0 +1,7982 @@
+[
+  {
+    "id":"B07CTPR73M",
+    "name":"Stone & Beam Stone Brown Swatch, 25020039-01",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":"Stone Brown",
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B072ZLCB3M",
+    "name":"Amazon Brand \u2013 Rivet Bristol Natural Edge Black Metal Side Table, Walnut",
+    "category":"table",
+    "brand":"Rivet",
+    "color":"Brown",
+    "style":"Organic modern",
+    "width_mm":462.0,
+    "depth_mm":480.0,
+    "height_mm":480.0,
+    "volume_mm3":106444800.0,
+    "footprint_mm2":221760.0,
+    "storage_score":74.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"+",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07TMH6289",
+    "name":"AmazonBasics LeatherSoft Kids\/Youth Recliner with Armrest Storage, 5+ Age Group, Light Blue",
+    "category":"chair",
+    "brand":"AmazonBasics",
+    "color":"Light Blue",
+    "style":null,
+    "width_mm":701.0,
+    "depth_mm":681.0,
+    "height_mm":701.0,
+    "volume_mm3":334644081.0,
+    "footprint_mm2":477381.0,
+    "storage_score":60.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B075X4QMW7",
+    "name":"Amazon Brand \u2013 Rivet Eva Mid-Century Modern Tufted Velvet Down-Filled Sectional Sofa Couch, 87\"W, Navy",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Navy",
+    "style":null,
+    "width_mm":2210.0,
+    "depth_mm":895.0,
+    "height_mm":768.0,
+    "volume_mm3":1519065600.0,
+    "footprint_mm2":1977950.0,
+    "storage_score":10.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07F2X8K62",
+    "name":"Amazon Brand \u2013 Ravenna Home Radford Modern Curved Arm Accent Chair, 28.15\"W",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B075NR8HWJ",
+    "name":"Amazon Brand Movian Dofsan Chair 100 x 93 x 86 cm Grey",
+    "category":"chair",
+    "brand":"Movian",
+    "color":"Grau",
+    "style":"Chair",
+    "width_mm":930.0,
+    "depth_mm":1000.0,
+    "height_mm":860.0,
+    "volume_mm3":799800000.0,
+    "footprint_mm2":930000.0,
+    "storage_score":39.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07B4SCB6T",
+    "name":"Stone & Beam Tisbury Nailhead Trim Queen Bed, 66\"W, Spinnsol Cocoa",
+    "category":"bed",
+    "brand":"Stone & Beam",
+    "color":"Spinnsol Cocoa",
+    "style":"beds",
+    "width_mm":2337.0,
+    "depth_mm":1676.0,
+    "height_mm":1422.0,
+    "volume_mm3":5569706664.0,
+    "footprint_mm2":3916812.0,
+    "storage_score":8.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07CVFV3J6",
+    "name":"Stone & Beam Javier Burnished Bronze Bed",
+    "category":"bed",
+    "brand":"Stone & Beam",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B075WYYHXT",
+    "name":"Rivet Navy Swatch, 25010043 Azul Mochila",
+    "category":"bench",
+    "brand":"Rivet",
+    "color":"Marino",
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B075X61WKJ",
+    "name":"Amazon Brand \u2013 Stone & Beam Norah Leather and Wood Round Ottoman, 39.5\", Saddle Brown",
+    "category":"ottoman",
+    "brand":"Stone & Beam",
+    "color":"Chaps Saddle",
+    "style":null,
+    "width_mm":1003.0,
+    "depth_mm":1003.0,
+    "height_mm":438.0,
+    "volume_mm3":440631942.0,
+    "footprint_mm2":1006009.0,
+    "storage_score":13.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07DBFT2YG",
+    "name":"Amazon Brand \u2013 Ravenna Home Angela Modern Turned Leg Wood Shelf Storage Coffee Table, 44\"W, Grey",
+    "category":"table",
+    "brand":"Ravenna Home",
+    "color":"Grey",
+    "style":"Bold eclectic",
+    "width_mm":1118.0,
+    "depth_mm":559.0,
+    "height_mm":508.0,
+    "volume_mm3":317480696.0,
+    "footprint_mm2":624962.0,
+    "storage_score":37.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B075WX8GBL",
+    "name":"25010030 Nietenmuster Hellblau",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Hellblau",
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07G2H3L4L",
+    "name":"ROSSINI CANOVA 3 SEATER MAXI",
+    "category":"sofa",
+    "brand":"ROSSINI",
+    "color":"Grey",
+    "style":null,
+    "width_mm":2330.0,
+    "depth_mm":1020.0,
+    "height_mm":930.0,
+    "volume_mm3":2210238000.0,
+    "footprint_mm2":2376600.0,
+    "storage_score":11.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B083H3WMT3",
+    "name":"AmazonBasics Classic Faux Leather Extra Padded Recliner Chair - Brown (Renewed)",
+    "category":"chair",
+    "brand":"AmazonBasics",
+    "color":"Brown",
+    "style":null,
+    "width_mm":950.0,
+    "depth_mm":831.0,
+    "height_mm":980.0,
+    "volume_mm3":773661000.0,
+    "footprint_mm2":789450.0,
+    "storage_score":53.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07CSYLG4J",
+    "name":"Stone & Beam - Reloj de Pulsera, Color marr\u00f3n, Piedra y Haz",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Marr\u00f3n",
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07KR9WBN7",
+    "name":"Cream Swatch, Ravenna Home",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Cream",
+    "style":"Woven Fabric",
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B08CD2924F",
+    "name":"Amazon Brand \u2013 Rivet Madison Modern Fabric Round Lift-Top Storage Tray Ottoman Pouf, 19.7\"W, Marshmallow (Renewed)",
+    "category":"ottoman",
+    "brand":"Rivet",
+    "color":"Marshmallow",
+    "style":null,
+    "width_mm":500.0,
+    "depth_mm":500.0,
+    "height_mm":409.0,
+    "volume_mm3":102250000.0,
+    "footprint_mm2":250000.0,
+    "storage_score":62.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07B3XXD3P",
+    "name":"Vida Designs Corona Wardrobe, 3 Door, Solid Pine Wood, Solid Pine Wood, Distressed Waxed Pine Bedroom Wooden Storage Mexican Furniture",
+    "category":"cabinet",
+    "brand":"Vida Designs",
+    "color":"Black",
+    "style":"3 Door Wardrobe",
+    "width_mm":1500.0,
+    "depth_mm":500.0,
+    "height_mm":1780.0,
+    "volume_mm3":1335000000.0,
+    "footprint_mm2":750000.0,
+    "storage_score":78.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07VSV4783",
+    "name":"Amazon Brand - Movian Ribe - Divano a 3 posti, 92 x 200 x 85 cm (Lu x La x A), verde scuro",
+    "category":"sofa",
+    "brand":"Movian",
+    "color":"Verde Scuro",
+    "style":"Divano a 3 posti",
+    "width_mm":2000.0,
+    "depth_mm":920.0,
+    "height_mm":850.0,
+    "volume_mm3":1564000000.0,
+    "footprint_mm2":1840000.0,
+    "storage_score":16.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07DBHCKHY",
+    "name":"Amazon Brand \u2013 Ravenna Home Tufted Armless English Roll Traditional Accent Chair, 26.8\"W, Merlot Red",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Merlot",
+    "style":"Glam",
+    "width_mm":681.0,
+    "depth_mm":640.0,
+    "height_mm":780.0,
+    "volume_mm3":339955200.0,
+    "footprint_mm2":435840.0,
+    "storage_score":67.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07NR2M291",
+    "name":"AmazonBasics Fauteuil de bureau et de gaming, style course, gris",
+    "category":"chair",
+    "brand":"AmazonBasics",
+    "color":"Gris \/ Noir",
+    "style":"Tissu",
+    "width_mm":730.0,
+    "depth_mm":550.0,
+    "height_mm":1260.0,
+    "volume_mm3":505890000.0,
+    "footprint_mm2":401500.0,
+    "storage_score":87.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B082VLYQWX",
+    "name":"Amazon Brand \u2013 Stone & Beam Westview Extra-Deep Down-Filled Leather Sofa Couch, 89\"W, Dark Grey",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":"Dark Grey",
+    "style":null,
+    "width_mm":1070.0,
+    "depth_mm":2260.0,
+    "height_mm":800.0,
+    "volume_mm3":1934560000.0,
+    "footprint_mm2":2418200.0,
+    "storage_score":6.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07SMJY29H",
+    "name":"Marchio Amazon -\u00a0Alkove Hayes - Tavolo da pranzo fisso classico, 130 x 90 x 77 cm, quercia silvestre",
+    "category":"table",
+    "brand":"Alkove",
+    "color":"Quercia Selvatica",
+    "style":"Moderno",
+    "width_mm":900.0,
+    "depth_mm":1300.0,
+    "height_mm":770.0,
+    "volume_mm3":900900000.0,
+    "footprint_mm2":1170000.0,
+    "storage_score":31.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07P5LLX43",
+    "name":"Amazon Brand \u2013 Stone & Beam Lauren Down Filled Oversized Ottoman with Hardwood Frame, 46.5\"W, Chocolate",
+    "category":"ottoman",
+    "brand":"Stone & Beam",
+    "color":"Chocolate",
+    "style":null,
+    "width_mm":1200.0,
+    "depth_mm":120.0,
+    "height_mm":480.0,
+    "volume_mm3":69120000.0,
+    "footprint_mm2":144000.0,
+    "storage_score":90.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"+"
+    }
+  },
+  {
+    "id":"B0792PHPPH",
+    "name":"Amazon Brand \u2013 Stone & Beam Janelle Button Tufted Round Leather Wheeled Ottoman, 37\"W",
+    "category":"ottoman",
+    "brand":"Stone & Beam",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07SHYWXZ8",
+    "name":"Alkov modul\u00e4r Stol (70 x 93) Turkos",
+    "category":"sofa",
+    "brand":"Alkove",
+    "color":"Turkos",
+    "style":"Stol (70 x 93)",
+    "width_mm":930.0,
+    "depth_mm":700.0,
+    "height_mm":330.0,
+    "volume_mm3":214830000.0,
+    "footprint_mm2":651000.0,
+    "storage_score":21.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B082X3MMFS",
+    "name":"AmazonCommercial Silla ejecutiva ergon\u00f3mica de Piel con Respaldo Alto con Brazos abatibles y Apoyo Lumbar (renovado)",
+    "category":"chair",
+    "brand":"AmazonCommercial",
+    "color":"Negro",
+    "style":"Ejecutivo",
+    "width_mm":724.0,
+    "depth_mm":787.0,
+    "height_mm":1137.0,
+    "volume_mm3":647848956.0,
+    "footprint_mm2":569788.0,
+    "storage_score":71.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07P6JV16D",
+    "name":"Amazon Brand \u2013 Rivet Emerly Modern Sofa, 83.5\"W, Steel Grey",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Steel",
+    "style":null,
+    "width_mm":889.0,
+    "depth_mm":2121.0,
+    "height_mm":864.0,
+    "volume_mm3":1629131616.0,
+    "footprint_mm2":1885569.0,
+    "storage_score":16.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07HPQ7HB5",
+    "name":"Amazon Brand -\u00a0Alkove Elvas Hand-Crafted Leather Sofa, 2 Seater Maxi, 102 x 193 x 93cm, Taupe",
+    "category":"sofa",
+    "brand":"Alkove",
+    "color":"Ecru",
+    "style":"Modern",
+    "width_mm":1930.0,
+    "depth_mm":1020.0,
+    "height_mm":930.0,
+    "volume_mm3":1830798000.0,
+    "footprint_mm2":1968600.0,
+    "storage_score":17.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07KR89SZ1",
+    "name":"Arrow Swatch, Ravenna Home",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Arrow",
+    "style":"Arrow",
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B071PDYKYB",
+    "name":"Amazon Brand \u2013 Stone & Beam Lummi Modern Armless Living Room Accent Chair, 21.6\" W, Shell",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Shell",
+    "style":"Transitional",
+    "width_mm":759.0,
+    "depth_mm":551.0,
+    "height_mm":831.0,
+    "volume_mm3":347531679.0,
+    "footprint_mm2":418209.0,
+    "storage_score":70.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07QC85X9C",
+    "name":"Amazon Brand \u2013 Ravenna Home Springdale Modern Bookcase with Decorative Open Sides, 30\"W, White",
+    "category":"desk",
+    "brand":"Ravenna Home",
+    "color":"White",
+    "style":"Bookcase",
+    "width_mm":342.0,
+    "depth_mm":762.0,
+    "height_mm":1829.0,
+    "volume_mm3":476644716.0,
+    "footprint_mm2":260604.0,
+    "storage_score":97.0,
+    "room_types":[
+      "office"
+    ],
+    "storage_indicator":{
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07CB54MM3",
+    "name":"Amazon Brand \u2013 Stone & Beam Bradbury Chesterfield Tufted Sofa Couch, 92.9\"W, Warm Grey",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":"Warm Grey",
+    "style":"Transitional",
+    "width_mm":978.0,
+    "depth_mm":2146.0,
+    "height_mm":902.0,
+    "volume_mm3":1893106776.0,
+    "footprint_mm2":2098788.0,
+    "storage_score":13.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07B4W5V3C",
+    "name":"Amazon Brand \u2013 Stone & Beam Tisbury Nailhead Trim Queen Bed, 66\"W, Curious Pearl",
+    "category":"bed",
+    "brand":"Stone & Beam",
+    "color":"Curious Pearl",
+    "style":"beds",
+    "width_mm":2337.0,
+    "depth_mm":1676.0,
+    "height_mm":1422.0,
+    "volume_mm3":5569706664.0,
+    "footprint_mm2":3916812.0,
+    "storage_score":8.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B00GBUJF3G",
+    "name":"Strathwood All-Weather Wicker Deep Seating Outdoor Recliner",
+    "category":"chair",
+    "brand":"Strathwood by Amazon.com",
+    "color":null,
+    "style":null,
+    "width_mm":670.0,
+    "depth_mm":920.0,
+    "height_mm":980.0,
+    "volume_mm3":604072000.0,
+    "footprint_mm2":616400.0,
+    "storage_score":60.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07RHBHNC7",
+    "name":"Amazon Brand - Solimo Mars Engineered Wood Bedside Table with drawer (Wenge Finish)",
+    "category":"table",
+    "brand":"Amazon Brand - Solimo",
+    "color":"Brown",
+    "style":"Contemporary",
+    "width_mm":360.0,
+    "depth_mm":430.0,
+    "height_mm":465.0,
+    "volume_mm3":71982000.0,
+    "footprint_mm2":154800.0,
+    "storage_score":85.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"+",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07TJVTZRF",
+    "name":"Amazon Brand - Movian Arendsee - Sedia da scrivania, 55 x 55 x 93 cm, bianco",
+    "category":"chair",
+    "brand":"Movian",
+    "color":"Bianco",
+    "style":"Sedia da scrivania",
+    "width_mm":485.0,
+    "depth_mm":560.0,
+    "height_mm":930.0,
+    "volume_mm3":252588000.0,
+    "footprint_mm2":271600.0,
+    "storage_score":91.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B082Q9C9YJ",
+    "name":"Amazon Brand \u2013 Stone & Beam Troy Upholstered Sofa Couch, 80\"W, Ash Gray",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":"Ash Gray",
+    "style":"Sofa",
+    "width_mm":2032.0,
+    "depth_mm":914.0,
+    "height_mm":864.0,
+    "volume_mm3":1604662272.0,
+    "footprint_mm2":1857248.0,
+    "storage_score":17.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07TZ9BMJG",
+    "name":"Iris Shelf Unit",
+    "category":"shelf",
+    "brand":"Movian",
+    "color":"bruin",
+    "style":"2 planken.",
+    "width_mm":147.0,
+    "depth_mm":290.0,
+    "height_mm":594.0,
+    "volume_mm3":25322220.0,
+    "footprint_mm2":42630.0,
+    "storage_score":98.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07HSKY87X",
+    "name":"Amazon Brand \u2013 Rivet Modern End Table, 19.3 Inch Width, Natural and Gold",
+    "category":"table",
+    "brand":"Rivet",
+    "color":null,
+    "style":"0",
+    "width_mm":526.0,
+    "depth_mm":582.0,
+    "height_mm":706.0,
+    "volume_mm3":216129192.0,
+    "footprint_mm2":306132.0,
+    "storage_score":77.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"+",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07JGPK68C",
+    "name":"Marchio Amazon -\u00a0Movian, credenza a 2 sportelli e 2 cassetti modello Lek, 100 x 119 x 40 cm, colore bianco",
+    "category":"cabinet",
+    "brand":"Movian",
+    "color":"Bianco",
+    "style":"credenza a 2 sportelli e 2 cassetti",
+    "width_mm":400.0,
+    "depth_mm":1000.0,
+    "height_mm":1190.0,
+    "volume_mm3":476000000.0,
+    "footprint_mm2":400000.0,
+    "storage_score":84.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07SJ75Y1M",
+    "name":"Amazon Brand -\u00a0Alkove Hayes Classic Fixed Solid Wood Dining Table, Seats 4-6, 130 x 90 x 75cm, Wild Oak",
+    "category":"table",
+    "brand":"Alkove",
+    "color":"Wild Oak",
+    "style":"Modern",
+    "width_mm":900.0,
+    "depth_mm":1300.0,
+    "height_mm":750.0,
+    "volume_mm3":877500000.0,
+    "footprint_mm2":1170000.0,
+    "storage_score":30.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B075NP5K3L",
+    "name":"Amazon Brand Movian Blankan 3 Seater Sofa, 228 x 87 x 78 cm, Light Grey",
+    "category":"sofa",
+    "brand":"Movian",
+    "color":"lichtgrijs",
+    "style":"3-zitsbank.",
+    "width_mm":870.0,
+    "depth_mm":2280.0,
+    "height_mm":780.0,
+    "volume_mm3":1547208000.0,
+    "footprint_mm2":1983600.0,
+    "storage_score":11.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B082JH6LSF",
+    "name":"Amazon Brand \u2013 Stone & Beam Mid-Century 2-Drawer File Cabinet, 21.7\"W, Pine Finish",
+    "category":"cabinet",
+    "brand":"Stone & Beam",
+    "color":"Brown",
+    "style":"Firm",
+    "width_mm":391.0,
+    "depth_mm":551.0,
+    "height_mm":599.0,
+    "volume_mm3":129049159.0,
+    "footprint_mm2":215441.0,
+    "storage_score":82.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B001BQ1Q9G",
+    "name":"Pinzon Kinzie Leather Dining Chair, Cream",
+    "category":"chair",
+    "brand":"Pinzon by Amazon",
+    "color":"Cream",
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B0728NWFGY",
+    "name":"Amazon Brand \u2013 Rivet Madison Modern Round Lift-Top Storage Tray Ottoman Pouf, 19.7\"W, Caviar",
+    "category":"ottoman",
+    "brand":"Rivet",
+    "color":"Caviar",
+    "style":null,
+    "width_mm":500.0,
+    "depth_mm":500.0,
+    "height_mm":419.0,
+    "volume_mm3":104750000.0,
+    "footprint_mm2":250000.0,
+    "storage_score":65.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07K4QZTNH",
+    "name":"Banco de parque",
+    "category":"bench",
+    "brand":"Amazon Basics",
+    "color":null,
+    "style":"PARK BENCH",
+    "width_mm":800.0,
+    "depth_mm":1260.0,
+    "height_mm":579.0,
+    "volume_mm3":583632000.0,
+    "footprint_mm2":1008000.0,
+    "storage_score":26.0,
+    "room_types":[
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07MM5H3HX",
+    "name":"Ravenna Home Classic Plank-Top Console Table with Large Drawer, 42\"W, Black Wood",
+    "category":"table",
+    "brand":"Ravenna Home",
+    "color":null,
+    "style":null,
+    "width_mm":1067.0,
+    "depth_mm":406.0,
+    "height_mm":762.0,
+    "volume_mm3":330099924.0,
+    "footprint_mm2":433202.0,
+    "storage_score":66.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07HYY8ZGY",
+    "name":"Amazon Brand \u2013 Stone & Beam Westcott Contemporary 93\" Sofa, Fabric, 93\"W, Haze",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":"Haze",
+    "style":"Transitional",
+    "width_mm":838.0,
+    "depth_mm":965.0,
+    "height_mm":2413.0,
+    "volume_mm3":1951320710.0,
+    "footprint_mm2":808670.0,
+    "storage_score":85.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"+"
+    }
+  },
+  {
+    "id":"B084T9X9NN",
+    "name":"Amazon Brand \u2013 Ravenna Home Modern Farmhouse Coffee Table, 40\"W, Antique Gray Pine",
+    "category":"table",
+    "brand":"Ravenna Home",
+    "color":"Antique Gray",
+    "style":"Coffee Table",
+    "width_mm":559.0,
+    "depth_mm":1016.0,
+    "height_mm":457.0,
+    "volume_mm3":259550408.0,
+    "footprint_mm2":567944.0,
+    "storage_score":36.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07K35ZXB6",
+    "name":"Yellow Swatch, Stone & Beam",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Yellow",
+    "style":"Linen",
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B002KMI990",
+    "name":"Strathwood Garden Furniture - Padre All-Weather Wicker  \/ Poly Rattan 48-Inch \/ 122 cm Round Dining Table",
+    "category":"table",
+    "brand":"Strathwood",
+    "color":null,
+    "style":null,
+    "width_mm":0.0,
+    "depth_mm":0.0,
+    "height_mm":0.0,
+    "volume_mm3":0.0,
+    "footprint_mm2":0.0,
+    "storage_score":null,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07QFRSLZB",
+    "name":"Amazon Brand \u2013 Rivet Contemporary Channel-Back Dining Chair, 35\"H, Ivory, Set of 2",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Ivory",
+    "style":null,
+    "width_mm":610.0,
+    "depth_mm":480.0,
+    "height_mm":900.0,
+    "volume_mm3":263520000.0,
+    "footprint_mm2":292800.0,
+    "storage_score":86.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B075YZ16V7",
+    "name":"Amazon Brand \u2013 Rivet Mid-Century Stark 6-Drawer Dresser, 61\"W, Warm Espresso",
+    "category":"dresser",
+    "brand":"Rivet",
+    "color":"Brown",
+    "style":"Dresser",
+    "width_mm":1549.0,
+    "depth_mm":457.0,
+    "height_mm":813.0,
+    "volume_mm3":575517009.0,
+    "footprint_mm2":707893.0,
+    "storage_score":48.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B000S1DKLW",
+    "name":"Strathwood Grosse Pointe Leather Loveseat, Mahogany",
+    "category":"sofa",
+    "brand":"Strathwood by Amazon.com",
+    "color":"Mahogony",
+    "style":null,
+    "width_mm":889.0,
+    "depth_mm":1651.0,
+    "height_mm":940.0,
+    "volume_mm3":1379674660.0,
+    "footprint_mm2":1467739.0,
+    "storage_score":30.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07QJXW4VD",
+    "name":"Amazon Brand \u2013 Rivet Damien Mid-Century Modern Channel-Backed Sofa, 87\"W, Leather, Cognac",
+    "category":"ottoman",
+    "brand":"Rivet",
+    "color":"Cognac",
+    "style":null,
+    "width_mm":960.0,
+    "depth_mm":2210.0,
+    "height_mm":820.0,
+    "volume_mm3":1739712000.0,
+    "footprint_mm2":2121600.0,
+    "storage_score":10.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07QTD9VPM",
+    "name":"Amazon Brand - Movian Arendsee Set of 2 Dining Chairs, 55 x 48.5 x 85 cm, Light grey",
+    "category":"chair",
+    "brand":"Movian",
+    "color":"Light Grey",
+    "style":"Set of 2 Bar Stools",
+    "width_mm":485.0,
+    "depth_mm":550.0,
+    "height_mm":850.0,
+    "volume_mm3":226737500.0,
+    "footprint_mm2":266750.0,
+    "storage_score":88.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07BWK7JWZ",
+    "name":"Amazon Brand \u2013 Rivet Edgewest Modern Right-Facing L-Shape Sectional, Leather, 116\"W, Saddle",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Saddle",
+    "style":"Industrial",
+    "width_mm":914.0,
+    "depth_mm":2235.0,
+    "height_mm":711.0,
+    "volume_mm3":1452423690.0,
+    "footprint_mm2":2042790.0,
+    "storage_score":7.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07TJSVJ4B",
+    "name":"AmazonBasics Fauteuil pivotant \u00e0 Dossier Haut avec PU nervur\u00e9 Puresoft Noir",
+    "category":"chair",
+    "brand":"AmazonBasics",
+    "color":"Noir",
+    "style":"Executive",
+    "width_mm":667.0,
+    "depth_mm":679.0,
+    "height_mm":1149.0,
+    "volume_mm3":520374057.0,
+    "footprint_mm2":452893.0,
+    "storage_score":80.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07JY3NNPK",
+    "name":"Amazon Brand \u2013 Stone & Beam Pinebrook Traditional Recliner, Fabric, 39\"W, Stone",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Stone",
+    "style":null,
+    "width_mm":991.0,
+    "depth_mm":914.0,
+    "height_mm":1041.0,
+    "volume_mm3":942910734.0,
+    "footprint_mm2":905774.0,
+    "storage_score":48.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B082BL4G1J",
+    "name":"Amazon Brand \u2013 Rivet Bertha Mid-Century Velvet-Upholstered Swivel Office Chair, 25.25\"W, Olive Green with Gold Finish",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Olive Green",
+    "style":null,
+    "width_mm":641.0,
+    "depth_mm":635.0,
+    "height_mm":908.0,
+    "volume_mm3":369587780.0,
+    "footprint_mm2":407035.0,
+    "storage_score":76.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07SS974PZ",
+    "name":"AmazonBasics - Pouf ottomano con rivestimento in maglia e interno in schiuma, Blu",
+    "category":"ottoman",
+    "brand":"AmazonBasics",
+    "color":"Blu Navy",
+    "style":null,
+    "width_mm":410.0,
+    "depth_mm":410.0,
+    "height_mm":270.0,
+    "volume_mm3":45387000.0,
+    "footprint_mm2":168100.0,
+    "storage_score":61.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07KR9GKL1",
+    "name":"Ivory Swatch, Ravenna Home",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Ivory",
+    "style":"Ivory Cotton",
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07K6S2G6J",
+    "name":"Amazon Brand - Movian Mj\u00f8sa - Compact Desk with 1 Drawer, 79 x 44 x 76 cm, High-Gloss White",
+    "category":"desk",
+    "brand":"Movian",
+    "color":"Hoogglans wit",
+    "style":"Modern",
+    "width_mm":440.0,
+    "depth_mm":790.0,
+    "height_mm":760.0,
+    "volume_mm3":264176000.0,
+    "footprint_mm2":347600.0,
+    "storage_score":75.0,
+    "room_types":[
+      "office"
+    ],
+    "storage_indicator":{
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07H8TNM7H",
+    "name":"Marca Amazon -\u00a0Movian Lahn - Armario de 2 puertas correderas con espejo y luces LED, 250 x 218 x 65 cm (blanco alpino\/blanco brillante)",
+    "category":"dresser",
+    "brand":"Movian",
+    "color":"Blanco Alpino\/Blanco Brillante",
+    "style":"Armario con LED 250cm",
+    "width_mm":650.0,
+    "depth_mm":2500.0,
+    "height_mm":2180.0,
+    "volume_mm3":3542500000.0,
+    "footprint_mm2":1625000.0,
+    "storage_score":55.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07WL2VHTG",
+    "name":"Marque Amazon - Rivet Table d'appoint ronde, 50\u00a0x\u00a050\u00a0cm, Finition orme",
+    "category":"table",
+    "brand":"Rivet",
+    "color":"Brown",
+    "style":"table d'appoint",
+    "width_mm":500.0,
+    "depth_mm":500.0,
+    "height_mm":500.0,
+    "volume_mm3":125000000.0,
+    "footprint_mm2":250000.0,
+    "storage_score":72.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"+",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07QD6V1VT",
+    "name":"Amazon Brand \u2013 Rivet Classic Desk, 39.4\"W, Dark Espresso",
+    "category":"desk",
+    "brand":"Rivet",
+    "color":"Dark Espresso",
+    "style":null,
+    "width_mm":549.0,
+    "depth_mm":1001.0,
+    "height_mm":762.0,
+    "volume_mm3":418756338.0,
+    "footprint_mm2":549549.0,
+    "storage_score":58.0,
+    "room_types":[
+      "office"
+    ],
+    "storage_indicator":{
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07H8PS46Q",
+    "name":"Film Elsa Utdragbart matbord 160\u2013200 cm 160-200 cm Canyon-ek",
+    "category":"table",
+    "brand":"Movian",
+    "color":"Canyon-ek",
+    "style":"Utdragbart matbord 160\u2013200 cm",
+    "width_mm":900.0,
+    "depth_mm":2000.0,
+    "height_mm":790.0,
+    "volume_mm3":1422000000.0,
+    "footprint_mm2":1800000.0,
+    "storage_score":14.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07SLF6QNG",
+    "name":"Marchio Amazon -\u00a0Alkove Hayes - Panca angolare, finta pelle, 185,4 x 155,4 x 55,5 cm, faggio",
+    "category":"bench",
+    "brand":"Alkove",
+    "color":"Faggio",
+    "style":"Modern",
+    "width_mm":1554.0,
+    "depth_mm":1854.0,
+    "height_mm":555.0,
+    "volume_mm3":1599019380.0,
+    "footprint_mm2":2881116.0,
+    "storage_score":2.0,
+    "room_types":[
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B075Z8769G",
+    "name":"Amazon Brand \u2013 Rivet Mid-Century Swope Curved Arm Swivel Office Chair, 26\"W, Felt Grey",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Grey",
+    "style":null,
+    "width_mm":660.0,
+    "depth_mm":630.0,
+    "height_mm":861.0,
+    "volume_mm3":358003800.0,
+    "footprint_mm2":415800.0,
+    "storage_score":73.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B015IPNVFW",
+    "name":"Solutions 14840\u00a0203\u00a0Revolving Door Wardrobe with 6\u00a0Doors, Arctic White\/Front Varnished White with Three Schubk\u00e4sten",
+    "category":"cabinet",
+    "brand":"Solutions",
+    "color":"White",
+    "style":null,
+    "width_mm":3000.0,
+    "depth_mm":580.0,
+    "height_mm":2360.0,
+    "volume_mm3":4106400000.0,
+    "footprint_mm2":1740000.0,
+    "storage_score":56.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07MF1SRH5",
+    "name":"Amazon Brand \u2013 Ravenna Home Damask-Pattern Ceramic Garden Stool or Side Table, 16\"H, Off-White",
+    "category":"table",
+    "brand":"Ravenna Home",
+    "color":"Off White",
+    "style":"Damask Pattern",
+    "width_mm":330.0,
+    "depth_mm":330.0,
+    "height_mm":400.0,
+    "volume_mm3":43560000.0,
+    "footprint_mm2":108900.0,
+    "storage_score":92.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"+",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07B4ZFD1C",
+    "name":"Amazon Brand \u2013 Stone & Beam Prudence Tufted King Bed, 84\"W, Curious Charcoal",
+    "category":"bed",
+    "brand":"Stone & Beam",
+    "color":"Curious Charcoal",
+    "style":"beds",
+    "width_mm":2337.0,
+    "depth_mm":2134.0,
+    "height_mm":1422.0,
+    "volume_mm3":7091738676.0,
+    "footprint_mm2":4987158.0,
+    "storage_score":3.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07MBFDHRY",
+    "name":"Amazon Brand \u2013 Ravenna Home Clover-Pattern Ceramic Garden Stool or Side Table, 16\"H, Grey",
+    "category":"table",
+    "brand":"Ravenna Home",
+    "color":"Grey",
+    "style":"Clover Pattern",
+    "width_mm":330.0,
+    "depth_mm":330.0,
+    "height_mm":406.0,
+    "volume_mm3":44213400.0,
+    "footprint_mm2":108900.0,
+    "storage_score":93.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"+",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07B4MF6YH",
+    "name":"Amazon Brand \u2013 Stone & Beam Andover Modern Rectangle Ottoman, 32\"W, Tan",
+    "category":"ottoman",
+    "brand":"Stone & Beam",
+    "color":"Tan",
+    "style":null,
+    "width_mm":610.0,
+    "depth_mm":889.0,
+    "height_mm":711.0,
+    "volume_mm3":385568190.0,
+    "footprint_mm2":542290.0,
+    "storage_score":54.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07SJ7S29M",
+    "name":"Marque Amazon -\u00a0Alkove Hayes - Lot de 2 chaises de salle \u00e0 manger, 47\u00a0x\u00a045,4\u00a0x\u00a092\u00a0cm, C-ur de h\u00eatre",
+    "category":"chair",
+    "brand":"Alkove",
+    "color":"C\u0153ur de H\u00eatre",
+    "style":"Moderne",
+    "width_mm":454.0,
+    "depth_mm":470.0,
+    "height_mm":920.0,
+    "volume_mm3":196309600.0,
+    "footprint_mm2":213380.0,
+    "storage_score":94.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07P5LN16X",
+    "name":"Amazon Brand \u2013 Rivet Sloane Modern Leather Loveseat with Tufted Back, 64.2\"W, Caramel",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Caramel",
+    "style":"Mid-Century modern",
+    "width_mm":909.0,
+    "depth_mm":1631.0,
+    "height_mm":841.0,
+    "volume_mm3":1246848939.0,
+    "footprint_mm2":1482579.0,
+    "storage_score":26.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B0888M8SYP",
+    "name":"Amazon Basics - Silla de Oficina Estilo Carrera\/Juego",
+    "category":"chair",
+    "brand":"Amazon Basics",
+    "color":"Rojo",
+    "style":"classical",
+    "width_mm":574.0,
+    "depth_mm":640.0,
+    "height_mm":1120.0,
+    "volume_mm3":411443200.0,
+    "footprint_mm2":367360.0,
+    "storage_score":86.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B0728NW87S",
+    "name":"Urban Living AMZ420099BLANCO Linon Living Room Chair",
+    "category":"chair",
+    "brand":"Urban Living",
+    "color":"Gray",
+    "style":null,
+    "width_mm":724.0,
+    "depth_mm":724.0,
+    "height_mm":597.0,
+    "volume_mm3":312933072.0,
+    "footprint_mm2":524176.0,
+    "storage_score":48.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07B4M364Y",
+    "name":"Amazon Brand \u2013 Stone & Beam Appleton Farmhouse Recliner, 35\"W, Khaki",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Khaki",
+    "style":null,
+    "width_mm":1118.0,
+    "depth_mm":965.0,
+    "height_mm":1092.0,
+    "volume_mm3":1178126040.0,
+    "footprint_mm2":1078870.0,
+    "storage_score":43.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B000HBVO5W",
+    "name":"Strathwood Naples Sling Arm Chair, Set of 2",
+    "category":"chair",
+    "brand":"Strathwood by Amazon.com",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07WJ58GDB",
+    "name":"Amazon Brand - Solimo Diner Fabric 3 seater Sofa (Brown)",
+    "category":"sofa",
+    "brand":"Amazon Brand - Solimo",
+    "color":"BROWN",
+    "style":"Contemporary",
+    "width_mm":820.0,
+    "depth_mm":1830.0,
+    "height_mm":710.0,
+    "volume_mm3":1065426000.0,
+    "footprint_mm2":1500600.0,
+    "storage_score":18.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07RR3K7KG",
+    "name":"AmazonBasics - Mobile, 120 x 40 x 85,5 cm, colore marrone",
+    "category":"cabinet",
+    "brand":"AmazonBasics",
+    "color":"Marron",
+    "style":"Buffet",
+    "width_mm":1200.0,
+    "depth_mm":400.0,
+    "height_mm":855.0,
+    "volume_mm3":410400000.0,
+    "footprint_mm2":480000.0,
+    "storage_score":67.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07HNJFGH4",
+    "name":"UMI. Essentials Portable Camping Chair Compact Ultralight Folding Chair with Carry Bag for Hiking, Beach,Fishing,Outdoor Heavy Duty 265 lb Capacity Red",
+    "category":"chair",
+    "brand":"UMI",
+    "color":"Red",
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B075X33RZL",
+    "name":"Amazon Brand \u2013 Stone & Beam Larkin Living Room Accent Swivel Chair, 30\"W, Melrose Blue",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Melrose Blue",
+    "style":"Transitional",
+    "width_mm":762.0,
+    "depth_mm":889.0,
+    "height_mm":838.0,
+    "volume_mm3":567676284.0,
+    "footprint_mm2":677418.0,
+    "storage_score":52.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07VC3QP7G",
+    "name":"AmazonBasics Extra Comfort Executive stoel met hoge rugleuning met opklapbare armen en Lumbar-ondersteuning Uitvoerend High Back BRON",
+    "category":"chair",
+    "brand":"AmazonBasics",
+    "color":"BRON",
+    "style":"Uitvoerend",
+    "width_mm":724.0,
+    "depth_mm":787.0,
+    "height_mm":1137.0,
+    "volume_mm3":647848956.0,
+    "footprint_mm2":569788.0,
+    "storage_score":71.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B082VMDZKZ",
+    "name":"Amazon Brand \u2013 Rivet Alonzo Contemporary Leather Loveseat Sofa, 64\"W, Grey",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Grey Leather",
+    "style":"Mid-Century Modern",
+    "width_mm":960.0,
+    "depth_mm":1620.0,
+    "height_mm":900.0,
+    "volume_mm3":1399680000.0,
+    "footprint_mm2":1555200.0,
+    "storage_score":27.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07KR86C57",
+    "name":"Lace Swatch, Ravenna Home",
+    "category":"sofa",
+    "brand":"Ravenna Home",
+    "color":"Lace",
+    "style":"Baldwin",
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07P5LMN2C",
+    "name":"Amazon Brand \u2013 Rivet Sloane Mid-Century Modern Loveseat with Tufted Back, 64.2\"W, Yellow",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Yellow",
+    "style":"Mid-Century modern",
+    "width_mm":909.0,
+    "depth_mm":1631.0,
+    "height_mm":841.0,
+    "volume_mm3":1246848939.0,
+    "footprint_mm2":1482579.0,
+    "storage_score":26.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07RT5PDJG",
+    "name":"Marca Amazon - Movian Kyyvesi - Estanter\u00eda redonda para colgar, 60 x 15 cm, negro",
+    "category":"shelf",
+    "brand":"Movian",
+    "color":"Black",
+    "style":"Round",
+    "width_mm":120.0,
+    "depth_mm":550.0,
+    "height_mm":550.0,
+    "volume_mm3":36300000.0,
+    "footprint_mm2":66000.0,
+    "storage_score":98.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07M6PKCM3",
+    "name":"Amazon Brand \u2013 Ravenna Home Damask-Pattern Ceramic Garden Stool or Side Table, 16\"H, Grey",
+    "category":"table",
+    "brand":"Ravenna Home",
+    "color":"Grey",
+    "style":"Damask Pattern",
+    "width_mm":330.0,
+    "depth_mm":330.0,
+    "height_mm":400.0,
+    "volume_mm3":43560000.0,
+    "footprint_mm2":108900.0,
+    "storage_score":92.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"+",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07KRBDWCQ",
+    "name":"Gunmetal Swatch, Ravenna Home",
+    "category":"sofa",
+    "brand":"Ravenna Home",
+    "color":"Gunmetal",
+    "style":"Raconteur",
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B086GM9TTD",
+    "name":"AmazonBasics Mid-Back Mesh Chair, with Contoured Mesh Seat for Extra Breathability - Black (Renewed)",
+    "category":"chair",
+    "brand":"AmazonBasics",
+    "color":"Black",
+    "style":"black",
+    "width_mm":565.0,
+    "depth_mm":565.0,
+    "height_mm":985.0,
+    "volume_mm3":314436625.0,
+    "footprint_mm2":319225.0,
+    "storage_score":87.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07B4SCPMY",
+    "name":"Amazon Brand \u2013 Stone & Beam Prudence Tufted King Bed, 84\"W, Curious Indigo",
+    "category":"bed",
+    "brand":"Stone & Beam",
+    "color":"Curious Indigo",
+    "style":"beds",
+    "width_mm":2337.0,
+    "depth_mm":2134.0,
+    "height_mm":1422.0,
+    "volume_mm3":7091738676.0,
+    "footprint_mm2":4987158.0,
+    "storage_score":3.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07HSMYNYF",
+    "name":"Stone & Beam Rylee Modern Coffee Table 19.69\"H, Mixed Gray",
+    "category":"table",
+    "brand":"Stone & Beam",
+    "color":null,
+    "style":"Coffee Table",
+    "width_mm":469.0,
+    "depth_mm":469.0,
+    "height_mm":599.0,
+    "volume_mm3":131756639.0,
+    "footprint_mm2":219961.0,
+    "storage_score":81.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"+",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07M6PKCQQ",
+    "name":"Amazon Brand \u2013 Ravenna Home Classic Solid Pine Storage Bench, 45\"W, White Wash Finish",
+    "category":"bench",
+    "brand":"Ravenna Home",
+    "color":"White",
+    "style":null,
+    "width_mm":400.0,
+    "depth_mm":1180.0,
+    "height_mm":500.0,
+    "volume_mm3":236000000.0,
+    "footprint_mm2":472000.0,
+    "storage_score":44.0,
+    "room_types":[
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07W918SNZ",
+    "name":"Stone & Beam - Mensola in Metallo Rustico Industriale con 5 Ganci, 33 x 56 x 12,7 cm, Colore: Nero e Legno (Increspato)",
+    "category":"shelf",
+    "brand":"Stone & Beam",
+    "color":"Cruz V2 Fresh Foam",
+    "style":null,
+    "width_mm":572.0,
+    "depth_mm":146.0,
+    "height_mm":330.0,
+    "volume_mm3":27558960.0,
+    "footprint_mm2":83512.0,
+    "storage_score":93.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07QGWQM5D",
+    "name":"Rivet Mid-Century Luxe Velvet Dining Chair, 34.1\"H, Set of 2, Dark Green",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Dark Green",
+    "style":null,
+    "width_mm":866.0,
+    "depth_mm":495.0,
+    "height_mm":594.0,
+    "volume_mm3":254629980.0,
+    "footprint_mm2":428670.0,
+    "storage_score":57.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07B4MSYPS",
+    "name":"Amazon Brand \u2013 Stone & Beam Andover Modern Right L-Sectional Sofa, 124\"W, Tan",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":"Tan",
+    "style":null,
+    "width_mm":787.0,
+    "depth_mm":2235.0,
+    "height_mm":1041.0,
+    "volume_mm3":1831061745.0,
+    "footprint_mm2":1758945.0,
+    "storage_score":28.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07DB8XGY2",
+    "name":"Amazon Brand \u2013 Ravenna Home Raymond Casual Nailhead Trim Sofa, 76\"W, Beige",
+    "category":"sofa",
+    "brand":"Ravenna Home",
+    "color":"Beige",
+    "style":"Transitional",
+    "width_mm":1930.0,
+    "depth_mm":813.0,
+    "height_mm":908.0,
+    "volume_mm3":1424733720.0,
+    "footprint_mm2":1569090.0,
+    "storage_score":27.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B00GBUN94W",
+    "name":"Strathwood Griffen All-Weather Garden Furniture - Wicker \/ Poly Rattan Folding Tray Table, Natural",
+    "category":"table",
+    "brand":"Strathwood",
+    "color":"Natural",
+    "style":null,
+    "width_mm":600.0,
+    "depth_mm":600.0,
+    "height_mm":710.0,
+    "volume_mm3":255600000.0,
+    "footprint_mm2":360000.0,
+    "storage_score":70.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"+",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07DBDX5VT",
+    "name":"Amazon Brand \u2013 Ravenna Home Amber Rustic Farmhouse Shelf Coffee Table, 44\"W, Natural and White",
+    "category":"table",
+    "brand":"Ravenna Home",
+    "color":"Rustic White",
+    "style":"Modern farm_House",
+    "width_mm":1118.0,
+    "depth_mm":559.0,
+    "height_mm":457.0,
+    "volume_mm3":285607634.0,
+    "footprint_mm2":624962.0,
+    "storage_score":33.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07QFB1L2P",
+    "name":"Amazon Brand \u2013 Stone & Beam Sumner Modern Filing Cabinet, 21.5\"W, White",
+    "category":"cabinet",
+    "brand":"Stone & Beam",
+    "color":"White",
+    "style":"File Cabinet",
+    "width_mm":508.0,
+    "depth_mm":546.0,
+    "height_mm":775.0,
+    "volume_mm3":214960200.0,
+    "footprint_mm2":277368.0,
+    "storage_score":83.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07PBZ9CLJ",
+    "name":"Amazon Brand \u2013 Rivet Sloane Mid-Century Modern Armchair with Tapered Legs, 32.7\"W, Yellow",
+    "category":"ottoman",
+    "brand":"Rivet",
+    "color":"Yellow",
+    "style":"Mid-Century modern",
+    "width_mm":909.0,
+    "depth_mm":831.0,
+    "height_mm":841.0,
+    "volume_mm3":635273739.0,
+    "footprint_mm2":755379.0,
+    "storage_score":47.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07TTY3FYP",
+    "name":"Iris Ohyama Basic Storage Shelf CX-3, Ripiani 3 Nicchie\/3 Scaffali in Legno, Marrone (Rovere Chiaro), 41.5 x 29 x 88 cm",
+    "category":"shelf",
+    "brand":"Iris Ohyama",
+    "color":"Marrone (Rovere Chiaro)",
+    "style":"3 Scomparti",
+    "width_mm":414.0,
+    "depth_mm":290.0,
+    "height_mm":879.0,
+    "volume_mm3":105532740.0,
+    "footprint_mm2":120060.0,
+    "storage_score":97.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07K7LZVPT",
+    "name":"Alcove - Hayes Helena - Set of 2 solid wood armchairs with upholstered seat, lacquered beech",
+    "category":"chair",
+    "brand":"Alkove",
+    "color":"Natuurlijk",
+    "style":"Y",
+    "width_mm":474.0,
+    "depth_mm":460.0,
+    "height_mm":1027.0,
+    "volume_mm3":223927080.0,
+    "footprint_mm2":218040.0,
+    "storage_score":95.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07HSLQY2F",
+    "name":"Amazon Brand \u2013 Rivet Modern Corner Floating Triangle 5 Shelf Wall Unit Decor - 36 Inch, Natural Wood and Gold",
+    "category":"shelf",
+    "brand":"Rivet",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07M7NRPZR",
+    "name":"Amazon Brand \u2013 Ravenna Home Chic Vegan Leather Storage Ottoman, 50\"W, Black",
+    "category":"ottoman",
+    "brand":"Ravenna Home",
+    "color":"Black",
+    "style":null,
+    "width_mm":1280.0,
+    "depth_mm":516.0,
+    "height_mm":559.0,
+    "volume_mm3":369208320.0,
+    "footprint_mm2":660480.0,
+    "storage_score":38.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07K29PDYS",
+    "name":"Forest Swatch, Rivet",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Forest",
+    "style":"Velvet",
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07DBDZ3WW",
+    "name":"Amazon Brand \u2013 Ravenna Home Contemporary Faux Leather Nailhead Wingback Accent Chair, 28.5\"W, Black",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Black",
+    "style":null,
+    "width_mm":724.0,
+    "depth_mm":813.0,
+    "height_mm":1148.0,
+    "volume_mm3":675726576.0,
+    "footprint_mm2":588612.0,
+    "storage_score":69.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07QBMQ729",
+    "name":"Amazon Brand \u2013 Ravenna Home Maplewood Reclining Sofa, 92\"W, Leather, Dark Roast",
+    "category":"sofa",
+    "brand":"Ravenna Home",
+    "color":"Dark Roast",
+    "style":null,
+    "width_mm":2337.0,
+    "depth_mm":991.0,
+    "height_mm":1041.0,
+    "volume_mm3":2410921647.0,
+    "footprint_mm2":2315967.0,
+    "storage_score":15.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07GFS1R7X",
+    "name":"Amazon Brand - Movian Inari 3-door Shoe Cabinet\/Cupboard\/Organizer, 25 x 75 x 128 cm, Light Brown Oak-Effect",
+    "category":"cabinet",
+    "brand":"Movian",
+    "color":"Oak",
+    "style":"Shoe Cabinet",
+    "width_mm":750.0,
+    "depth_mm":250.0,
+    "height_mm":1280.0,
+    "volume_mm3":240000000.0,
+    "footprint_mm2":187500.0,
+    "storage_score":96.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B00EUL2B16",
+    "name":"Ashley Furniture Signature Design - Leahlyn Dining Upholstered Side Chair - Pierced Splat Back - Set of 2 - Medium Brown",
+    "category":"chair",
+    "brand":"Signature Design by Ashley",
+    "color":"Pierced Splat Back",
+    "style":"Contemporary",
+    "width_mm":457.0,
+    "depth_mm":572.0,
+    "height_mm":965.0,
+    "volume_mm3":252254860.0,
+    "footprint_mm2":261404.0,
+    "storage_score":93.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B00GBVDLMQ",
+    "name":"Strathwood Whidbey Cast-Aluminum Dining Arm Chair, Set of 2",
+    "category":"chair",
+    "brand":"Strathwood by Amazon.com",
+    "color":null,
+    "style":null,
+    "width_mm":640.0,
+    "depth_mm":660.0,
+    "height_mm":920.0,
+    "volume_mm3":388608000.0,
+    "footprint_mm2":422400.0,
+    "storage_score":74.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07B4NVYM9",
+    "name":"Amazon Brand \u2013 Rivet Edgewest Low Back Modern Loveseat, 65\"W, Rouge Red",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Rouge Red",
+    "style":"Industrial",
+    "width_mm":1651.0,
+    "depth_mm":838.0,
+    "height_mm":813.0,
+    "volume_mm3":1124816394.0,
+    "footprint_mm2":1383538.0,
+    "storage_score":27.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07BWLJRCD",
+    "name":"Amazon Brand \u2013 Stone & Beam Dalton Sofa Couch with Chaise, Sand",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":"Sand",
+    "style":"Transitional",
+    "width_mm":1041.0,
+    "depth_mm":2286.0,
+    "height_mm":762.0,
+    "volume_mm3":1813351212.0,
+    "footprint_mm2":2379726.0,
+    "storage_score":6.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B073G7DN31",
+    "name":"PB5605VLVBR",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Merlot Velvet",
+    "style":null,
+    "width_mm":737.0,
+    "depth_mm":737.0,
+    "height_mm":864.0,
+    "volume_mm3":469298016.0,
+    "footprint_mm2":543169.0,
+    "storage_score":60.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B075X4YDJT",
+    "name":"Amazon Brand \u2013 Rivet Modern Upholstered Cube Ottoman Pouf, 20\"W, Gold Leaf",
+    "category":"ottoman",
+    "brand":"Rivet",
+    "color":"Gold Leaf",
+    "style":null,
+    "width_mm":508.0,
+    "depth_mm":508.0,
+    "height_mm":432.0,
+    "volume_mm3":111483648.0,
+    "footprint_mm2":258064.0,
+    "storage_score":64.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07QL9RTFQ",
+    "name":"AmazonBasics Low-Back Task Chair with Swivel Casters - Black (Renewed)",
+    "category":"chair",
+    "brand":"AmazonBasics",
+    "color":"Black",
+    "style":"Low-Back Task Chair",
+    "width_mm":489.0,
+    "depth_mm":610.0,
+    "height_mm":972.0,
+    "volume_mm3":289937880.0,
+    "footprint_mm2":298290.0,
+    "storage_score":89.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B085FH4N3Y",
+    "name":"Amazon Brand \u2013 Ravenna Home Classic Swivel Recliner with Storage Ottoman, 35\"W, Cream",
+    "category":"ottoman",
+    "brand":"Ravenna Home",
+    "color":"Cream",
+    "style":"Transitional",
+    "width_mm":880.0,
+    "depth_mm":890.0,
+    "height_mm":960.0,
+    "volume_mm3":751872000.0,
+    "footprint_mm2":783200.0,
+    "storage_score":52.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07HZ7PG4D",
+    "name":"Amazon Brand \u2013 Stone & Beam Bagley Sectional Component, Left-Facing Loveseat, Fabric, 52\"W, Dove",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Dove",
+    "style":"Left Facing Loveseat",
+    "width_mm":914.0,
+    "depth_mm":1067.0,
+    "height_mm":1372.0,
+    "volume_mm3":1338026536.0,
+    "footprint_mm2":975238.0,
+    "storage_score":58.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07QTK9CXH",
+    "name":"Movian Turia - Mesa de centro,110 x 70 x 73\u00a0cm (largo x ancho x alto), blanco y efecto hormig\u00f3n",
+    "category":"table",
+    "brand":"Movian",
+    "color":"Blanco Y Efecto Hormig\u00f3n",
+    "style":"Mesa de centro",
+    "width_mm":1100.0,
+    "depth_mm":700.0,
+    "height_mm":730.0,
+    "volume_mm3":562100000.0,
+    "footprint_mm2":770000.0,
+    "storage_score":41.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07DBDQLF2",
+    "name":"Amazon Brand \u2013 Ravenna Home Kaiden Patterned Nailhead Accent Chair, 33\"W, Blue Moroccan",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Blue Morrocan",
+    "style":null,
+    "width_mm":838.0,
+    "depth_mm":762.0,
+    "height_mm":762.0,
+    "volume_mm3":486579672.0,
+    "footprint_mm2":638556.0,
+    "storage_score":50.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B072ZMT5SD",
+    "name":"Amazon Brand \u2013 Rivet King Street Industrial TV Media Console Table with Three Drawers, Black Metal and Wood, Glass",
+    "category":"table",
+    "brand":"Rivet",
+    "color":"Black",
+    "style":null,
+    "width_mm":1501.0,
+    "depth_mm":399.0,
+    "height_mm":399.0,
+    "volume_mm3":238960701.0,
+    "footprint_mm2":598899.0,
+    "storage_score":32.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B082VL7BQ1",
+    "name":"Amazon Brand \u2013 Stone & Beam Westview Extra-Deep Down-Filled Leather Accent Chair, 43.3\"W, Dark Grey",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Dark Grey",
+    "style":null,
+    "width_mm":1070.0,
+    "depth_mm":1100.0,
+    "height_mm":800.0,
+    "volume_mm3":941600000.0,
+    "footprint_mm2":1177000.0,
+    "storage_score":32.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07DBHCKJ5",
+    "name":"Amazon Brand \u2013 Ravenna Home Ryleigh Rounded Mid-Century Barrel Accent Chair, 27.5\"W, Charcoal Grey",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Charcoal Grey",
+    "style":"Transitional",
+    "width_mm":698.0,
+    "depth_mm":711.0,
+    "height_mm":826.0,
+    "volume_mm3":409925628.0,
+    "footprint_mm2":496278.0,
+    "storage_score":64.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07BWM2CR9",
+    "name":"Amazon Brand \u2013 Rivet Edgewest Low Back Modern Right L-Sectional, 116\"W, Charcoal Grey",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Charcoal Grey",
+    "style":"Industrial",
+    "width_mm":914.0,
+    "depth_mm":2235.0,
+    "height_mm":711.0,
+    "volume_mm3":1452423690.0,
+    "footprint_mm2":2042790.0,
+    "storage_score":7.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07HPJ9V3J",
+    "name":"Movian Andre Accent Sofa Turquoise",
+    "category":"chair",
+    "brand":"Movian",
+    "color":"Turquoise",
+    "style":"Modern",
+    "width_mm":610.0,
+    "depth_mm":1150.0,
+    "height_mm":840.0,
+    "volume_mm3":589260000.0,
+    "footprint_mm2":701500.0,
+    "storage_score":51.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07B7DL3GX",
+    "name":"Amazon Brand \u2013 Stone & Beam Casual Wood Office Computer Desk, 60\"W, Birch",
+    "category":"desk",
+    "brand":"Stone & Beam",
+    "color":"Birch",
+    "style":"Desk",
+    "width_mm":762.0,
+    "depth_mm":1524.0,
+    "height_mm":762.0,
+    "volume_mm3":884901456.0,
+    "footprint_mm2":1161288.0,
+    "storage_score":31.0,
+    "room_types":[
+      "office"
+    ],
+    "storage_indicator":{
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07FGH49CQ",
+    "name":"Amazon Brand \u2013 Ravenna Home Rolled Arm Nailhead Accent Chair, 35\"W",
+    "category":"chair",
+    "brand":"Right2Home",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07KR85FMX",
+    "name":"Light Grey Swatch, Ravenna Home",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Light Grey",
+    "style":"Elba",
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B075WXMTG4",
+    "name":"Navy Swatch, Stone & Beam",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Navy",
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07QX2BYDH",
+    "name":"AmazonBasics Gaming Computer Desk with Storage for Controller, Headphone & Speaker - Black",
+    "category":"desk",
+    "brand":"AmazonBasics",
+    "color":"Black",
+    "style":"Gaming computer desk with storage",
+    "width_mm":595.0,
+    "depth_mm":1295.0,
+    "height_mm":909.0,
+    "volume_mm3":700407225.0,
+    "footprint_mm2":770525.0,
+    "storage_score":49.0,
+    "room_types":[
+      "office"
+    ],
+    "storage_indicator":{
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07HPQFNC9",
+    "name":"Amazon Brand - Alkove Kutina Hand-Crafted Leather Sofa, 3 Seater, 94 x 203 x 87cm, Taupe",
+    "category":"sofa",
+    "brand":"Alkove",
+    "color":"Ecru",
+    "style":"Modern",
+    "width_mm":2030.0,
+    "depth_mm":940.0,
+    "height_mm":870.0,
+    "volume_mm3":1660134000.0,
+    "footprint_mm2":1908200.0,
+    "storage_score":15.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B000HBVNGM",
+    "name":"Strathwood Falkner Dining Arm Chairs, Set of 2",
+    "category":"chair",
+    "brand":"Strathwood by Amazon.com",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07H2HGZLK",
+    "name":"Red Hook Meknes Storage Ottoman Bench with Fabric Upholstery - 48 x 17 x 16 Inches, Almond",
+    "category":"ottoman",
+    "brand":"Red Hook",
+    "color":"Natural",
+    "style":null,
+    "width_mm":432.0,
+    "depth_mm":1219.0,
+    "height_mm":406.0,
+    "volume_mm3":213802848.0,
+    "footprint_mm2":526608.0,
+    "storage_score":35.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07J1YW3YT",
+    "name":"AmazonBasics Lift-Top Storage Coffee Table, Natural",
+    "category":"table",
+    "brand":"AmazonBasics",
+    "color":"Natural",
+    "style":"Transitional",
+    "width_mm":483.0,
+    "depth_mm":1016.0,
+    "height_mm":457.0,
+    "volume_mm3":224262696.0,
+    "footprint_mm2":490728.0,
+    "storage_score":40.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07TGC3432",
+    "name":"An Amazon Brand - Movian Arendsee - Set of 2 Dining Chairs, 55 x 55 x 85 cm (L x W x H)",
+    "category":"chair",
+    "brand":"Movian",
+    "color":"Hn\u011bd\u00e1",
+    "style":"Set met 2 eetkamerstoelen.",
+    "width_mm":485.0,
+    "depth_mm":550.0,
+    "height_mm":850.0,
+    "volume_mm3":226737500.0,
+    "footprint_mm2":266750.0,
+    "storage_score":88.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B01N3MBCKT",
+    "name":"Ameriwood Home Carver End Table, Gray\/Sonoma Oak",
+    "category":"table",
+    "brand":"Ameriwood Home",
+    "color":"Grey",
+    "style":"End Table",
+    "width_mm":592.0,
+    "depth_mm":511.0,
+    "height_mm":511.0,
+    "volume_mm3":154583632.0,
+    "footprint_mm2":302512.0,
+    "storage_score":65.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07K7NV52J",
+    "name":"Marchio Amazon -\u00a0Alkove - Hayes - Set da 2 sedie per sala da pranzo in legno massello con seduta imbottita, in faggio",
+    "category":"chair",
+    "brand":"Alkove",
+    "color":"Faggio",
+    "style":"Moderno",
+    "width_mm":475.0,
+    "depth_mm":570.0,
+    "height_mm":950.0,
+    "volume_mm3":257212500.0,
+    "footprint_mm2":270750.0,
+    "storage_score":92.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B078JGV5QK",
+    "name":"Pietra & Beam Moderno Rustico Rotondo Ripiani in Legno e Metallo, 61\u00a0cm H, Marrone",
+    "category":"shelf",
+    "brand":"Stone & Beam",
+    "color":null,
+    "style":null,
+    "width_mm":152.0,
+    "depth_mm":610.0,
+    "height_mm":610.0,
+    "volume_mm3":56559200.0,
+    "footprint_mm2":92720.0,
+    "storage_score":96.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07L87VDGF",
+    "name":"Rivet Polyester Grey Sofa",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07KR9C1N8",
+    "name":"Beige Swatch, Ravenna Home",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Beige",
+    "style":"Glencrest",
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07B4NW6J9",
+    "name":"Amazon Brand \u2013 Stone & Beam Andover Modern Right Chaise Sofa Sectional, 126\"W, Charcoal",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":"Charcoal",
+    "style":null,
+    "width_mm":787.0,
+    "depth_mm":2235.0,
+    "height_mm":1041.0,
+    "volume_mm3":1831061745.0,
+    "footprint_mm2":1758945.0,
+    "storage_score":28.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B072JG3WR5",
+    "name":"Urban Living AMZ420100FLAX Linon Living Room Chair",
+    "category":"chair",
+    "brand":"Urban Living",
+    "color":"Yellow",
+    "style":null,
+    "width_mm":724.0,
+    "depth_mm":1067.0,
+    "height_mm":298.0,
+    "volume_mm3":230207384.0,
+    "footprint_mm2":772508.0,
+    "storage_score":9.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07SFXGYPW",
+    "name":"Marchio Amazon -\u00a0Alkove Elvas - Divano Modulare - Modulo chaise longue con vano contenitore e cuscino extra, 93 x 145 cm, lime",
+    "category":"sofa",
+    "brand":"Alkove",
+    "color":"Lime",
+    "style":"CHAISE LONGUE (93 x 145)",
+    "width_mm":1450.0,
+    "depth_mm":930.0,
+    "height_mm":330.0,
+    "volume_mm3":445005000.0,
+    "footprint_mm2":1348500.0,
+    "storage_score":2.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07V5CNL8L",
+    "name":"AmazonBasics Classic Houten Accent Tafel\/Nachtkastje met Lade",
+    "category":"table",
+    "brand":"AmazonBasics",
+    "color":"Zwart",
+    "style":null,
+    "width_mm":550.0,
+    "depth_mm":325.0,
+    "height_mm":565.0,
+    "volume_mm3":100993750.0,
+    "footprint_mm2":178750.0,
+    "storage_score":87.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"+",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07R4T5PN8",
+    "name":"Marque Amazon - Movian Keitele- Canap\u00e9 3\u00a0places, 193\u00a0x\u00a079\u00a0x\u00a079\u00a0cm, Gris fonc\u00e9",
+    "category":"sofa",
+    "brand":"Movian",
+    "color":"Gris Fonc\u00e9",
+    "style":"Moderne",
+    "width_mm":790.0,
+    "depth_mm":1930.0,
+    "height_mm":790.0,
+    "volume_mm3":1204513000.0,
+    "footprint_mm2":1524700.0,
+    "storage_score":22.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07FJW359R",
+    "name":"Artum Hill UP3-884 Olivia Loveseat, Espresso",
+    "category":"sofa",
+    "brand":"Artum Hill",
+    "color":"Espresso",
+    "style":null,
+    "width_mm":889.0,
+    "depth_mm":1549.0,
+    "height_mm":813.0,
+    "volume_mm3":1119550593.0,
+    "footprint_mm2":1377061.0,
+    "storage_score":28.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B082VKTV1P",
+    "name":"Amazon Brand \u2013 Stone & Beam Westview Extra-Deep Down-Filled Loveseat Sofa Couch, 75.6\"W, Cream",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":"Cream",
+    "style":null,
+    "width_mm":1070.0,
+    "depth_mm":1920.0,
+    "height_mm":800.0,
+    "volume_mm3":1643520000.0,
+    "footprint_mm2":2054400.0,
+    "storage_score":11.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07H8SFZR8",
+    "name":"Movian - Lit King size Lahn, 194 x 94 x 221\u00a0cm, Blanc alpin Couleur",
+    "category":"dresser",
+    "brand":"Movian",
+    "color":"Alpine White",
+    "style":"Lit king size",
+    "width_mm":2210.0,
+    "depth_mm":1940.0,
+    "height_mm":940.0,
+    "volume_mm3":4030156000.0,
+    "footprint_mm2":4287400.0,
+    "storage_score":2.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B075ZF4S39",
+    "name":"Amazon Brand \u2013 Stone & Beam Barrett Reclaimed Wood 4-Shelf Bookcase, 40\"W, White and Sandstone Pine",
+    "category":"shelf",
+    "brand":"Stone & Beam",
+    "color":"White\/Brown",
+    "style":"Estante",
+    "width_mm":381.0,
+    "depth_mm":1016.0,
+    "height_mm":1880.0,
+    "volume_mm3":727740480.0,
+    "footprint_mm2":387096.0,
+    "storage_score":95.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B081HLCCHF",
+    "name":"Amazon Basics \u2013 Litera de Metal Resistente, Doble sobre Completo, f\u00e1cil de Montar con Barra de protecci\u00f3n Mejorada de Nivel Superior",
+    "category":"bed",
+    "brand":"Amazon Basics",
+    "color":"Negro",
+    "style":"Bunk Bed",
+    "width_mm":1422.0,
+    "depth_mm":1499.0,
+    "height_mm":1968.0,
+    "volume_mm3":4194945504.0,
+    "footprint_mm2":2131578.0,
+    "storage_score":39.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B085FHBF21",
+    "name":"Amazon Brand \u2013 Ravenna Home Contemporary Swivel Glider Recliner Chair, 33.9\"W, Smoke Grey",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Grey",
+    "style":"Modern",
+    "width_mm":960.0,
+    "depth_mm":860.0,
+    "height_mm":960.0,
+    "volume_mm3":792576000.0,
+    "footprint_mm2":825600.0,
+    "storage_score":49.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B002KMI97W",
+    "name":"Strathwood Grand Isle 48-Inch Round Dining Table with Umbrella Hole",
+    "category":"table",
+    "brand":"Strathwood by Amazon.com",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07JK8GLJB",
+    "name":"Marque Amazon -\u00a0Movian Vardar - Chaise de salle \u00e0 manger, gris fonc\u00e9",
+    "category":"chair",
+    "brand":"Movian",
+    "color":"Gris Fonc\u00e9",
+    "style":"Chaise de salle \u00e0 manger",
+    "width_mm":570.0,
+    "depth_mm":540.0,
+    "height_mm":780.0,
+    "volume_mm3":240084000.0,
+    "footprint_mm2":307800.0,
+    "storage_score":80.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B086JJQQZ3",
+    "name":"Amazon Brand \u2013 Ravenna Home Lamberton Curved-Back Dining Chair, Set of 2, 19.5\"W, Beige",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Beige",
+    "style":"Without Nailheads",
+    "width_mm":610.0,
+    "depth_mm":495.0,
+    "height_mm":902.0,
+    "volume_mm3":272358900.0,
+    "footprint_mm2":301950.0,
+    "storage_score":85.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07B85FJDF",
+    "name":"Amazon Brand \u2013 Stone & Beam Hughes Casual Farmhouse Wood Dining Kitchen Table, 60-80\"L, Brown",
+    "category":"table",
+    "brand":"Stone & Beam",
+    "color":"Brown",
+    "style":"0",
+    "width_mm":991.0,
+    "depth_mm":2032.0,
+    "height_mm":762.0,
+    "volume_mm3":1534448544.0,
+    "footprint_mm2":2013712.0,
+    "storage_score":9.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07D4FS7GY",
+    "name":"Red Hook Leda Rectangular Upholstered Ottoman Bench - 27 x 14.5 x 18.5 Inches, Stone Grey",
+    "category":"ottoman",
+    "brand":"Red Hook",
+    "color":"Grey",
+    "style":"Modern",
+    "width_mm":366.0,
+    "depth_mm":681.0,
+    "height_mm":467.0,
+    "volume_mm3":116397882.0,
+    "footprint_mm2":249246.0,
+    "storage_score":68.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07H8PQFS4",
+    "name":"Movian Moselle.",
+    "category":"cabinet",
+    "brand":"Movian",
+    "color":"Sonoma Eiche\/Alpinwei\u00e3\u00ff",
+    "style":"2-door wardrobe",
+    "width_mm":900.0,
+    "depth_mm":900.0,
+    "height_mm":1960.0,
+    "volume_mm3":1587600000.0,
+    "footprint_mm2":810000.0,
+    "storage_score":79.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07SH7KLP5",
+    "name":"Marca Amazon -\u00a0Alkove Hayes - Mesa de centro, 110 x 110 x 40\u00a0cm, roble salvaje, aceite Natural",
+    "category":"table",
+    "brand":"Alkove",
+    "color":"Natural",
+    "style":"Moderno",
+    "width_mm":1100.0,
+    "depth_mm":1100.0,
+    "height_mm":400.0,
+    "volume_mm3":484000000.0,
+    "footprint_mm2":1210000.0,
+    "storage_score":6.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B001CZJGAW",
+    "name":"Strathwood Falkner Sectional Left Arm Loveseat with Cushions",
+    "category":"sofa",
+    "brand":"Strathwood by Amazon.com",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07JW72ZQ8",
+    "name":"Amazon Brand \u2013 Rivet Thomas Modern Leather Sofa Couch, 81.5\"W, Caramel",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Caramel",
+    "style":"Modern",
+    "width_mm":1039.0,
+    "depth_mm":2070.0,
+    "height_mm":681.0,
+    "volume_mm3":1464647130.0,
+    "footprint_mm2":2150730.0,
+    "storage_score":5.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B085FJW92H",
+    "name":"Ravenna Home Alpine Upholstered High-Leg Recliner Chair, 39\"W, Steel Blue",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Light Blue",
+    "style":"Transitional",
+    "width_mm":787.0,
+    "depth_mm":991.0,
+    "height_mm":1067.0,
+    "volume_mm3":832171439.0,
+    "footprint_mm2":779917.0,
+    "storage_score":57.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07B4MPXKJ",
+    "name":"Amazon Brand \u2013 Stone & Beam Andover Modern Living Room Accent Chair, 38\"W, Dark Tan",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Dark Tan",
+    "style":null,
+    "width_mm":965.0,
+    "depth_mm":965.0,
+    "height_mm":889.0,
+    "volume_mm3":827859025.0,
+    "footprint_mm2":931225.0,
+    "storage_score":42.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B08G1YWN8L",
+    "name":"Movian Wendy Dining Chair",
+    "category":"chair",
+    "brand":"Movian",
+    "color":"Hellgrau",
+    "style":null,
+    "width_mm":570.0,
+    "depth_mm":590.0,
+    "height_mm":830.0,
+    "volume_mm3":279129000.0,
+    "footprint_mm2":336300.0,
+    "storage_score":79.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07J2B91QQ",
+    "name":"AmazonBasics Lift-Top Storage Coffee Table, White",
+    "category":"table",
+    "brand":"AmazonBasics",
+    "color":"White",
+    "style":"Transitional",
+    "width_mm":483.0,
+    "depth_mm":1016.0,
+    "height_mm":457.0,
+    "volume_mm3":224262696.0,
+    "footprint_mm2":490728.0,
+    "storage_score":40.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B075QFCHM9",
+    "name":"Rivet York Modern Extended Platform Queen Bed, 90.2\"L, Grey",
+    "category":"bed",
+    "brand":"Rivet",
+    "color":"Orly Silver",
+    "style":null,
+    "width_mm":2290.0,
+    "depth_mm":1829.0,
+    "height_mm":1075.0,
+    "volume_mm3":4502540750.0,
+    "footprint_mm2":4188410.0,
+    "storage_score":3.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07VDD5HT4",
+    "name":"Marque Amazon - Movian Ljungan Meuble TV \u00e0 2\u00a0portes et 1\u00a0tiroir de rangement, 165\u00a0x\u00a040\u00a0x\u00a050\u00a0cm, Finition effet noyer",
+    "category":"cabinet",
+    "brand":"Movian",
+    "color":"Noyer",
+    "style":"Meuble TV",
+    "width_mm":400.0,
+    "depth_mm":1650.0,
+    "height_mm":500.0,
+    "volume_mm3":330000000.0,
+    "footprint_mm2":660000.0,
+    "storage_score":35.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07V6BWRF8",
+    "name":"AmazonCommercial Fauteuil de bureau ergonomique \u00e0 haut dossier en cuir Accoudoirs mobiles Soutien lombaire Noir",
+    "category":"chair",
+    "brand":"AmazonBasics",
+    "color":"Noir",
+    "style":"Professionnel",
+    "width_mm":724.0,
+    "depth_mm":787.0,
+    "height_mm":448.0,
+    "volume_mm3":255265024.0,
+    "footprint_mm2":569788.0,
+    "storage_score":36.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07Q3Y23R3",
+    "name":"Amazonbasics Adjustable Foam Floor Sofa, Navy",
+    "category":"sofa",
+    "brand":"AmazonBasics",
+    "color":"Navy",
+    "style":null,
+    "width_mm":1118.0,
+    "depth_mm":991.0,
+    "height_mm":178.0,
+    "volume_mm3":197212964.0,
+    "footprint_mm2":1107938.0,
+    "storage_score":1.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B087ZFFSZB",
+    "name":"AmazonBasics High-Back Bonded Leather Executive Office Computer Desk Chair - Black (Renewed)",
+    "category":"chair",
+    "brand":"AmazonBasics",
+    "color":"Black",
+    "style":"Medium Chair",
+    "width_mm":709.0,
+    "depth_mm":655.0,
+    "height_mm":1135.0,
+    "volume_mm3":527088325.0,
+    "footprint_mm2":464395.0,
+    "storage_score":79.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07QCMBCXJ",
+    "name":"Amazon Brand \u2013 Rivet Slade Contemporary Living Room Accent Swivel Chair, 27\"W, Canary",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Canary",
+    "style":null,
+    "width_mm":640.0,
+    "depth_mm":680.0,
+    "height_mm":720.0,
+    "volume_mm3":313344000.0,
+    "footprint_mm2":435200.0,
+    "storage_score":63.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07B4MHTM6",
+    "name":"Amazon Brand \u2013 Stone & Beam Brandeberry Farmhouse Charles of London Sofa, 82\"W, Stone",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":"Stone",
+    "style":"Transitional",
+    "width_mm":2083.0,
+    "depth_mm":1092.0,
+    "height_mm":991.0,
+    "volume_mm3":2254164276.0,
+    "footprint_mm2":2274636.0,
+    "storage_score":13.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07K7K9224",
+    "name":"Marca Amazon -\u00a0Alkove - Hayes - Mesa de centro cuadrada de madera maciza con balda (roble salvaje)",
+    "category":"table",
+    "brand":"Alkove",
+    "color":"Roble Salvaje",
+    "style":"Moderno",
+    "width_mm":900.0,
+    "depth_mm":900.0,
+    "height_mm":450.0,
+    "volume_mm3":364500000.0,
+    "footprint_mm2":810000.0,
+    "storage_score":25.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07DBB1NJ1",
+    "name":"Amazon Brand \u2013 Ravenna Home Parker Storage End Table, 23.6\"W, Glass &amp; Gold",
+    "category":"table",
+    "brand":"Ravenna Home",
+    "color":"Glass",
+    "style":null,
+    "width_mm":599.0,
+    "depth_mm":599.0,
+    "height_mm":399.0,
+    "volume_mm3":143161599.0,
+    "footprint_mm2":358801.0,
+    "storage_score":46.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07KRB8H9Z",
+    "name":"Light Grey Swatch, Ravenna Home",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Light Grey",
+    "style":"Linoso",
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B0829PFMS1",
+    "name":"AmazonCommercial - Silla ejecutiva ergon\u00f3mica de Piel con Respaldo Alto y Brazos abatibles y Soporte Lumbar (Redonda)",
+    "category":"chair",
+    "brand":"AmazonCommercial",
+    "color":"Crema",
+    "style":"Ejecutivo",
+    "width_mm":724.0,
+    "depth_mm":787.0,
+    "height_mm":1137.0,
+    "volume_mm3":647848956.0,
+    "footprint_mm2":569788.0,
+    "storage_score":71.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B075YQXQ5C",
+    "name":"Amazon Brand \u2013 Stone & Beam Dunbar Modern Wood Buffet, 55\"W, Oak",
+    "category":"cabinet",
+    "brand":"Stone & Beam",
+    "color":"Buffet",
+    "style":"Modern",
+    "width_mm":1397.0,
+    "depth_mm":483.0,
+    "height_mm":914.0,
+    "volume_mm3":616722414.0,
+    "footprint_mm2":674751.0,
+    "storage_score":56.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B000HBYKWG",
+    "name":"Strathwood Naples Sling Swivel Arm Chair",
+    "category":"chair",
+    "brand":"Strathwood by Amazon.com",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07227PWVP",
+    "name":"AmazonBasics 24-Pocket Over-the-Door Medium-Size Shoe Organizer",
+    "category":"shelf",
+    "brand":"AmazonBasics",
+    "color":null,
+    "style":null,
+    "width_mm":76.0,
+    "depth_mm":462.0,
+    "height_mm":1633.0,
+    "volume_mm3":57337896.0,
+    "footprint_mm2":35112.0,
+    "storage_score":100.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07KRB8CGW",
+    "name":"Brown Swatch, Ravenna Home",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Brown",
+    "style":"Bonita",
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07B7BX336",
+    "name":"Amazon Brand \u2013 Rivet Boundary Mid-Century Modern Dining Kitchen Wood Bench, 18 Inch Height, Brown",
+    "category":"table",
+    "brand":"Rivet",
+    "color":"Brown",
+    "style":null,
+    "width_mm":800.0,
+    "depth_mm":1600.0,
+    "height_mm":762.0,
+    "volume_mm3":975360000.0,
+    "footprint_mm2":1280000.0,
+    "storage_score":29.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07H8VCDYN",
+    "name":"Movian Douro Groot opbergelement. Sonoma eiken\/alpinewit",
+    "category":"table",
+    "brand":"Movian",
+    "color":null,
+    "style":null,
+    "width_mm":450.0,
+    "depth_mm":2250.0,
+    "height_mm":780.0,
+    "volume_mm3":789750000.0,
+    "footprint_mm2":1012500.0,
+    "storage_score":35.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B075ZBW1RR",
+    "name":"Amazon Brand \u2013 Stone & Beam Larson Industrial Wood and Metal 2-Shelf Bookcase, 39\"H, Walnut",
+    "category":"shelf",
+    "brand":"Stone & Beam",
+    "color":"Walnut + Metal",
+    "style":"40\" Bookcase",
+    "width_mm":864.0,
+    "depth_mm":356.0,
+    "height_mm":997.0,
+    "volume_mm3":306661248.0,
+    "footprint_mm2":307584.0,
+    "storage_score":89.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B073GCWSRW",
+    "name":"PB96-1LNNPTL",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Blush",
+    "style":null,
+    "width_mm":686.0,
+    "depth_mm":635.0,
+    "height_mm":813.0,
+    "volume_mm3":354150930.0,
+    "footprint_mm2":435610.0,
+    "storage_score":68.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07C51891N",
+    "name":"Amazon Brand - Solimo Suction Corner Bathroom Rack\/Shelf (Set of 3)",
+    "category":"shelf",
+    "brand":"Amazon Brand - Solimo",
+    "color":"Black",
+    "style":null,
+    "width_mm":240.0,
+    "depth_mm":200.0,
+    "height_mm":70.0,
+    "volume_mm3":3360000.0,
+    "footprint_mm2":48000.0,
+    "storage_score":59.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07FB6VK2H",
+    "name":"Stone & Beam Hazel Collection King Bed with Storage Bed",
+    "category":"bed",
+    "brand":"Stone & Beam",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B072M1WJC7",
+    "name":"Amazon Brand \u2013 Rivet North End Modern Wood Accent Loveseat Sofa Couch, 58.7\"W, Grey Weave",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Grey Weave",
+    "style":"Transitional",
+    "width_mm":960.0,
+    "depth_mm":1491.0,
+    "height_mm":879.0,
+    "volume_mm3":1258165440.0,
+    "footprint_mm2":1431360.0,
+    "storage_score":29.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07VMLF9L1",
+    "name":"A Brand of Amazon Movian Lina 2.5-Seater Sofa 82 x 184 x 82 cm (L x W x H)",
+    "category":"chair",
+    "brand":"Movian",
+    "color":"Donkerblauw, gelakte beukenhouten poten",
+    "style":"Ruststoel",
+    "width_mm":840.0,
+    "depth_mm":820.0,
+    "height_mm":820.0,
+    "volume_mm3":564816000.0,
+    "footprint_mm2":688800.0,
+    "storage_score":50.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07J2JGT7Y",
+    "name":"Amazon Brand \u2013 Rivet Alonzo Contemporary Leather Sofa Couch, 80\"W, Cognac",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Cognac",
+    "style":"Mid-Century Modern",
+    "width_mm":899.0,
+    "depth_mm":2040.0,
+    "height_mm":960.0,
+    "volume_mm3":1760601600.0,
+    "footprint_mm2":1833960.0,
+    "storage_score":23.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07S6WNZ7Y",
+    "name":"Marca Amazon -\u00a0AmazonBasics - Mueble de ba\u00f1o, 64.3 x 19.2 x 177\u00a0cm (largo x ancho x alto), blanco y efecto hormig\u00f3n",
+    "category":"cabinet",
+    "brand":"AmazonBasics",
+    "color":"Blanco Y Efecto Hormig\u00f3n",
+    "style":"Mueble de ba\u00f1o",
+    "width_mm":192.0,
+    "depth_mm":643.0,
+    "height_mm":1770.0,
+    "volume_mm3":218517120.0,
+    "footprint_mm2":123456.0,
+    "storage_score":99.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07WN53W8K",
+    "name":"Amazon Brand - Solimo Cosmos Fabric 3 seater Sofa (Blue)",
+    "category":"sofa",
+    "brand":"Amazon Brand - Solimo",
+    "color":"BLUE",
+    "style":"Contemporary",
+    "width_mm":860.0,
+    "depth_mm":2010.0,
+    "height_mm":840.0,
+    "volume_mm3":1452024000.0,
+    "footprint_mm2":1728600.0,
+    "storage_score":20.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07FM83Z21",
+    "name":"Artum Hill BE6-563 Laurel Dresser, 6-Drawer, Modern Gray",
+    "category":"dresser",
+    "brand":"Artum Hill",
+    "color":"modern gray",
+    "style":null,
+    "width_mm":457.0,
+    "depth_mm":1524.0,
+    "height_mm":914.0,
+    "volume_mm3":636571752.0,
+    "footprint_mm2":696468.0,
+    "storage_score":55.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B082BLFMRC",
+    "name":"Amazon Brand \u2013 Rivet Celine Upholstered Home Office Task Chair, 22.25\"W, Beige",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Beige",
+    "style":"Modern",
+    "width_mm":565.0,
+    "depth_mm":667.0,
+    "height_mm":952.0,
+    "volume_mm3":358765960.0,
+    "footprint_mm2":376855.0,
+    "storage_score":79.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07VB7QF86",
+    "name":"Amazon Brand - Movian Kyyvesi, End Table, 50 x 50 x 45 cm, Walnut Effect",
+    "category":"table",
+    "brand":"Movian",
+    "color":"Ecru",
+    "style":"End Table",
+    "width_mm":500.0,
+    "depth_mm":500.0,
+    "height_mm":500.0,
+    "volume_mm3":125000000.0,
+    "footprint_mm2":250000.0,
+    "storage_score":72.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"+",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B072Y5MZQH",
+    "name":"AmazonBasics Classic Leather Office Desk Guest Chair with Metal Frame, Black",
+    "category":"chair",
+    "brand":"AmazonBasics",
+    "color":"Black",
+    "style":"Guest Chair",
+    "width_mm":599.0,
+    "depth_mm":696.0,
+    "height_mm":909.0,
+    "volume_mm3":378965736.0,
+    "footprint_mm2":416904.0,
+    "storage_score":74.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B087LRF61D",
+    "name":"AmazonBasics \u2013 Puf de punto a mano para suelo otomana (renovado)",
+    "category":"ottoman",
+    "brand":"AmazonBasics",
+    "color":"Gris",
+    "style":null,
+    "width_mm":410.0,
+    "depth_mm":410.0,
+    "height_mm":270.0,
+    "volume_mm3":45387000.0,
+    "footprint_mm2":168100.0,
+    "storage_score":61.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07TNKZ6MV",
+    "name":"Amazon Brand - Movian \u0110erdap Round Coffee Table with Solid Wood Legs, 60 x 60 x 40cm, White Top\/Light Brown Legs",
+    "category":"table",
+    "brand":"Movian",
+    "color":"White",
+    "style":"Modern",
+    "width_mm":600.0,
+    "depth_mm":600.0,
+    "height_mm":400.0,
+    "volume_mm3":144000000.0,
+    "footprint_mm2":360000.0,
+    "storage_score":46.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07KRBBYVK",
+    "name":"Light Grey Swatch, Ravenna Home",
+    "category":"ottoman",
+    "brand":"Ravenna Home",
+    "color":"Light Grey",
+    "style":"Raconteur Fog",
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07DBGXFVF",
+    "name":"Amazon Brand \u2013 Ravenna Home Dunford Casual Rolled Arm Chair, 37\"W, Beige",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Beige",
+    "style":"Chair",
+    "width_mm":940.0,
+    "depth_mm":851.0,
+    "height_mm":908.0,
+    "volume_mm3":726345520.0,
+    "footprint_mm2":799940.0,
+    "storage_score":47.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07NY2M1PY",
+    "name":"Stone & Beam Amazon Brand Genesse Seating Collection",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07V3LSNPT",
+    "name":"AmazonCommercial - Respaldo Alto ergon\u00f3mico",
+    "category":"chair",
+    "brand":"AmazonCommercial",
+    "color":"Negro",
+    "style":null,
+    "width_mm":750.0,
+    "depth_mm":725.0,
+    "height_mm":1220.0,
+    "volume_mm3":663375000.0,
+    "footprint_mm2":543750.0,
+    "storage_score":76.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07B4MF6S6",
+    "name":"Amazon Brand \u2013 Stone & Beam Andover Modern Loveseat Sofa, 67\"W, Grey",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":"Grey",
+    "style":null,
+    "width_mm":1702.0,
+    "depth_mm":965.0,
+    "height_mm":889.0,
+    "volume_mm3":1460120270.0,
+    "footprint_mm2":1642430.0,
+    "storage_score":24.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07DC168ZT",
+    "name":"UMI Gaming Chair Office Chair Desk Chair with Rocker Function Gamer Chair Fabric Height Adjustable Swivel Chair PC Chair Ergonomic Executive Chair",
+    "category":"chair",
+    "brand":"UMI",
+    "color":"White",
+    "style":null,
+    "width_mm":681.0,
+    "depth_mm":550.0,
+    "height_mm":1260.0,
+    "volume_mm3":471933000.0,
+    "footprint_mm2":374550.0,
+    "storage_score":91.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07WP9CX8V",
+    "name":"Rivet Modern Floating Wall Mounted Shelving Decor - 9 Inch, Natural Wood and Gold (Renewed)",
+    "category":"shelf",
+    "brand":"Rivet",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B0847F7F4X",
+    "name":"AmazonBasics All Weather Adjustable Outdoor Patio Pool Faux Wicker Chaise Lounge Chairs - 2-Pack, Charcoal Gray (Renewed)",
+    "category":"chair",
+    "brand":"AmazonBasics",
+    "color":"Charcoal Gray",
+    "style":null,
+    "width_mm":700.0,
+    "depth_mm":2000.0,
+    "height_mm":870.0,
+    "volume_mm3":1218000000.0,
+    "footprint_mm2":1400000.0,
+    "storage_score":29.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07BWJCPPP",
+    "name":"Amazon Brand \u2013 Stone & Beam Andover Modern Left Chaise Sofa Sectional, 126\"W, Grey",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":"Grey",
+    "style":null,
+    "width_mm":1041.0,
+    "depth_mm":2235.0,
+    "height_mm":787.0,
+    "volume_mm3":1831061745.0,
+    "footprint_mm2":2326635.0,
+    "storage_score":7.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07JY29YYP",
+    "name":"Amazon Brand \u2013 Stone & Beam Wolcott Swivel Chair, Fabric, 33\"W, Latte",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Latte",
+    "style":"Transitional",
+    "width_mm":838.0,
+    "depth_mm":914.0,
+    "height_mm":838.0,
+    "volume_mm3":641851016.0,
+    "footprint_mm2":765932.0,
+    "storage_score":45.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B084W339RK",
+    "name":"Amazon Brand \u2013 Stone & Beam Vivianne Modern Upholstered Dining Chair with Casters, 24.4\"W, Slate",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Slate",
+    "style":"With Arms",
+    "width_mm":698.0,
+    "depth_mm":616.0,
+    "height_mm":927.0,
+    "volume_mm3":398580336.0,
+    "footprint_mm2":429968.0,
+    "storage_score":73.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B0011MXVLQ",
+    "name":"Pinzon Hardwood Lounge Chair with Sand Polyblend Upholstery, Java",
+    "category":"chair",
+    "brand":"Pinzon by Amazon",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07BWJCZJX",
+    "name":"Amazon Brand \u2013 Stone & Beam Lummi Modern Armless Living Room Accent Chair, 21.6\" W, Denim",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Denim",
+    "style":"Transitional",
+    "width_mm":759.0,
+    "depth_mm":551.0,
+    "height_mm":831.0,
+    "volume_mm3":347531679.0,
+    "footprint_mm2":418209.0,
+    "storage_score":70.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B073G856FB",
+    "name":"Amazon Brand \u2013 Stone & Beam Modern Sweeping Arm Accent Chair, 28\"W, Damask Taupe",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Taupe",
+    "style":null,
+    "width_mm":711.0,
+    "depth_mm":737.0,
+    "height_mm":864.0,
+    "volume_mm3":452742048.0,
+    "footprint_mm2":524007.0,
+    "storage_score":62.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07B4MN1L2",
+    "name":"Amazon Brand \u2013 Stone & Beam Andover Modern Rectangle Ottoman, 32\"W, Grey",
+    "category":"ottoman",
+    "brand":"Stone & Beam",
+    "color":"Grey",
+    "style":null,
+    "width_mm":610.0,
+    "depth_mm":889.0,
+    "height_mm":711.0,
+    "volume_mm3":385568190.0,
+    "footprint_mm2":542290.0,
+    "storage_score":54.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07B4W2ZFM",
+    "name":"Amazon Brand \u2013 Rivet Fisher Rustic Wood Nightstand, 22\", Reclaimed-Look Wood",
+    "category":"bed",
+    "brand":"Rivet",
+    "color":"Reclaimed-look Wood",
+    "style":"Nightstand",
+    "width_mm":559.0,
+    "depth_mm":406.0,
+    "height_mm":610.0,
+    "volume_mm3":138441940.0,
+    "footprint_mm2":226954.0,
+    "storage_score":81.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B001BQAK0C",
+    "name":"Pinzon Jonesport Glasstop Wooden Desk with Hutch, Kona",
+    "category":"desk",
+    "brand":"Pinzon",
+    "color":"Kona",
+    "style":"Contempor\u00e1neo",
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office"
+    ],
+    "storage_indicator":{
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07VPNXRF5",
+    "name":"Marque Amazon - Movian Ticino - Canap\u00e9 2,5\u00a0places, 88\u00a0x\u00a0210\u00a0x\u00a088\u00a0cm (longueur\u00a0x\u00a0largeur\u00a0x\u00a0hauteur), Vert bouteille",
+    "category":"sofa",
+    "brand":"Movian",
+    "color":"Vert Bouteille",
+    "style":"Canap\u00e9 2,5\u00a0places",
+    "width_mm":2100.0,
+    "depth_mm":880.0,
+    "height_mm":880.0,
+    "volume_mm3":1626240000.0,
+    "footprint_mm2":1848000.0,
+    "storage_score":18.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07CSY4XG2",
+    "name":"Rivet Aged Black Swatch, Rivet",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Aged Black",
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07FKS45HW",
+    "name":"Amazon Brand - Solimo Capri Three Seater Fabric Recliner (Mocha)",
+    "category":"chair",
+    "brand":"Amazon Brand - Solimo",
+    "color":"Mocha",
+    "style":null,
+    "width_mm":1050.0,
+    "depth_mm":2120.0,
+    "height_mm":1100.0,
+    "volume_mm3":2448600000.0,
+    "footprint_mm2":2226000.0,
+    "storage_score":20.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07W6LSQSH",
+    "name":"UMI. par Amazon - Etag\u00e8res Murales Lot de 3\u00a0\u00e9tag\u00e8res Flottantes avec Structure en M\u00e9tal,pour Salons Chambres Cuisines Bureau Moderne Maison D\u00e9coration",
+    "category":"shelf",
+    "brand":"UMI",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07HZ72L2H",
+    "name":"Amazon Brand \u2013 Stone & Beam Bagley Sectional Component, Right-Facing Sofa, Fabric, 75\"W, Linen",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":"Linen",
+    "style":"Right Facing Sofa",
+    "width_mm":914.0,
+    "depth_mm":1067.0,
+    "height_mm":1956.0,
+    "volume_mm3":1907565528.0,
+    "footprint_mm2":975238.0,
+    "storage_score":73.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"+"
+    }
+  },
+  {
+    "id":"B07JGY5LPJ",
+    "name":"Amazon Brand - Movian Loue Sliding Door Wardrobe, 183 x 60 x 202cm, White\/Light Brown Oak-Effect",
+    "category":"cabinet",
+    "brand":"Movian",
+    "color":"White, Oak Sonoma 2d",
+    "style":"Sliding Doors Wardrobe",
+    "width_mm":600.0,
+    "depth_mm":1830.0,
+    "height_mm":2020.0,
+    "volume_mm3":2217960000.0,
+    "footprint_mm2":1098000.0,
+    "storage_score":67.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07W421VGL",
+    "name":"Marque Amazon - Rivet Table d'appoint ronde avec \u00e9tag\u00e8re, 43\u00a0x\u00a043\u00a0cm, Finition c\u00e9ramique\/verre",
+    "category":"table",
+    "brand":"Rivet",
+    "color":"Grey",
+    "style":"table de chevet",
+    "width_mm":430.0,
+    "depth_mm":430.0,
+    "height_mm":550.0,
+    "volume_mm3":101695000.0,
+    "footprint_mm2":184900.0,
+    "storage_score":84.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"+",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07S5FQRDZ",
+    "name":"Marca Amazon - AmazonBasics - Mueble de ba\u00f1o, 96 x 43,1 x 12cm (largo x ancho x alto), roble y blanco",
+    "category":"cabinet",
+    "brand":"AmazonBasics",
+    "color":"Roble Y Blanco",
+    "style":"Mueble de ba\u00f1o",
+    "width_mm":192.0,
+    "depth_mm":643.0,
+    "height_mm":1770.0,
+    "volume_mm3":218517120.0,
+    "footprint_mm2":123456.0,
+    "storage_score":99.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07HZ4ZQS7",
+    "name":"Amazon Brand \u2013 Stone & Beam Bagley Sectional Component, Left-Facing Corner Sofa, Fabric, 90\"W, Stone",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":"Stone",
+    "style":"Transitional",
+    "width_mm":914.0,
+    "depth_mm":1067.0,
+    "height_mm":2337.0,
+    "volume_mm3":2279131206.0,
+    "footprint_mm2":975238.0,
+    "storage_score":78.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"+"
+    }
+  },
+  {
+    "id":"B07VNLBJQ1",
+    "name":"Amazon Brand - Movian Ola - Divano a 3 posti, 88 x 200 x 79 cm (Lu x La x A), colore rame",
+    "category":"sofa",
+    "brand":"Movian",
+    "color":"Colore Rame",
+    "style":"Divano a seduta singola",
+    "width_mm":2000.0,
+    "depth_mm":880.0,
+    "height_mm":790.0,
+    "volume_mm3":1390400000.0,
+    "footprint_mm2":1760000.0,
+    "storage_score":14.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07JGMW8DL",
+    "name":"Amazon Marke -\u00a0Movian Lek Schreibtisch, 158 x 76 x 67\u00a0cm, Wei\u00df",
+    "category":"desk",
+    "brand":"Movian",
+    "color":"Wei\u00e3\u00ff",
+    "style":"Schreibtisch",
+    "width_mm":670.0,
+    "depth_mm":1580.0,
+    "height_mm":760.0,
+    "volume_mm3":804536000.0,
+    "footprint_mm2":1058600.0,
+    "storage_score":33.0,
+    "room_types":[
+      "office"
+    ],
+    "storage_indicator":{
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07L1CHBK7",
+    "name":"Amazon Brand - Solimo Tucana Engineered Wood Queen Bed (Walnut Finish)",
+    "category":"bed",
+    "brand":"Amazon Brand - Solimo",
+    "color":"Mahogany",
+    "style":"Contemporary",
+    "width_mm":1950.0,
+    "depth_mm":1570.0,
+    "height_mm":790.0,
+    "volume_mm3":2418585000.0,
+    "footprint_mm2":3061500.0,
+    "storage_score":3.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07H8PQFMK",
+    "name":"Marca Amazon -\u00a0Movian Atran - Vitrina de 1 puerta (blanco brillante)",
+    "category":"cabinet",
+    "brand":"Movian",
+    "color":"Blanco Brillante",
+    "style":"Armario 1-puerta",
+    "width_mm":400.0,
+    "depth_mm":550.0,
+    "height_mm":1910.0,
+    "volume_mm3":420200000.0,
+    "footprint_mm2":220000.0,
+    "storage_score":98.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07HSCRFDN",
+    "name":"Stone & Beam Hillsdale 64080 - Mesa Auxiliar",
+    "category":"table",
+    "brand":"Stone & Beam",
+    "color":null,
+    "style":null,
+    "width_mm":669.0,
+    "depth_mm":669.0,
+    "height_mm":619.0,
+    "volume_mm3":277040259.0,
+    "footprint_mm2":447561.0,
+    "storage_score":57.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07QFP4ZRG",
+    "name":"Amazon Brand \u2013 Rivet Damien Mid-Century Modern Channel-Backed Sofa, 87\"W, Felt Grey",
+    "category":"ottoman",
+    "brand":"Rivet",
+    "color":"Felt Grey",
+    "style":null,
+    "width_mm":960.0,
+    "depth_mm":2210.0,
+    "height_mm":820.0,
+    "volume_mm3":1739712000.0,
+    "footprint_mm2":2121600.0,
+    "storage_score":10.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07YN9B81V",
+    "name":"AmazonBasics BIFMA Certified Gaming\/Racing Style Office Chair - with Removable Headrest and High Back Cushion - Red (Renewed)",
+    "category":"chair",
+    "brand":"AmazonBasics",
+    "color":"Red",
+    "style":null,
+    "width_mm":729.0,
+    "depth_mm":550.0,
+    "height_mm":1285.0,
+    "volume_mm3":515220750.0,
+    "footprint_mm2":400950.0,
+    "storage_score":88.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07DBGJ3TF",
+    "name":"Amazon Brand \u2013 Ravenna Home Jessica Rustic Open Storage Side End Table, 31.5\"H, Grey Pine",
+    "category":"table",
+    "brand":"Ravenna Home",
+    "color":"Distressed Wood",
+    "style":"End Table",
+    "width_mm":701.0,
+    "depth_mm":701.0,
+    "height_mm":399.0,
+    "volume_mm3":196068999.0,
+    "footprint_mm2":491401.0,
+    "storage_score":37.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07DB8V5PB",
+    "name":"Amazon Brand \u2013 Ravenna Home Barrow Nailhead Storage Ottoman Bench, 35.5\"W, Light Grey",
+    "category":"ottoman",
+    "brand":"Ravenna Home",
+    "color":"Light Grey",
+    "style":null,
+    "width_mm":902.0,
+    "depth_mm":495.0,
+    "height_mm":425.0,
+    "volume_mm3":189758250.0,
+    "footprint_mm2":446490.0,
+    "storage_score":42.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07GFW9GFX",
+    "name":"Movian Indre Bedroom Furniture",
+    "category":"cabinet",
+    "brand":"Movian",
+    "color":"Eiche",
+    "style":"Wardrobe",
+    "width_mm":1290.0,
+    "depth_mm":510.0,
+    "height_mm":1910.0,
+    "volume_mm3":1256589000.0,
+    "footprint_mm2":657900.0,
+    "storage_score":84.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B0011MXVMU",
+    "name":"Pinzon Ellington 3 Piece Set Wood Coffee, Java",
+    "category":"table",
+    "brand":"Pinzon by Amazon",
+    "color":"Brown",
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B075QG3JWL",
+    "name":"Rivet Kyler Mid-Century Upholstered Tufted Queen Bed with Headboard, 66\"W, Charcoal",
+    "category":"bed",
+    "brand":"Rivet",
+    "color":"Charcoal",
+    "style":null,
+    "width_mm":2240.0,
+    "depth_mm":1676.0,
+    "height_mm":1150.0,
+    "volume_mm3":4317376000.0,
+    "footprint_mm2":3754240.0,
+    "storage_score":4.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B000W8RYWM",
+    "name":"Strathwood Adjustable Beach and Pool Lounge Chair, Caribbean Blue",
+    "category":"chair",
+    "brand":"Strathwood by Amazon.com",
+    "color":"Caribbean Blue",
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07B7DL3H8",
+    "name":"Amazon Brand \u2013 Rivet Contemporary Office Desk Chair, 33\"-36\", Grey\/Chrome",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Grey\/Chrome",
+    "style":null,
+    "width_mm":559.0,
+    "depth_mm":584.0,
+    "height_mm":610.0,
+    "volume_mm3":199138160.0,
+    "footprint_mm2":326456.0,
+    "storage_score":68.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B000HC0E16",
+    "name":"Strathwood Falkner 72-Inch Dining Table with Umbrella Hole",
+    "category":"table",
+    "brand":"Strathwood by Amazon.com",
+    "color":"Black",
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07KXYG41Q",
+    "name":"Stone & Beam Calhoun - Tela para sof\u00e1 de Dos plazas, dise\u00f1o Moderno",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07HZ4918H",
+    "name":"Amazon Brand \u2013 Stone & Beam Fischer Sleeper Chair, 51\"W, Linen Fabric",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Linen",
+    "style":"Chair Sleeper",
+    "width_mm":864.0,
+    "depth_mm":940.0,
+    "height_mm":1346.0,
+    "volume_mm3":1093167360.0,
+    "footprint_mm2":812160.0,
+    "storage_score":63.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B000K6GK0I",
+    "name":"Strathwood Falkner Dining Side Chair, Set of 2",
+    "category":"chair",
+    "brand":"Strathwood by Amazon.com",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B0725Z2499",
+    "name":"Amazon Brand \u2013 Stone & Beam Parson King Wood Bed with Headboard, 80.5\"W, Natural",
+    "category":"bed",
+    "brand":"Stone & Beam",
+    "color":"Brown",
+    "style":"King Bed",
+    "width_mm":2184.0,
+    "depth_mm":2045.0,
+    "height_mm":1422.0,
+    "volume_mm3":6351050160.0,
+    "footprint_mm2":4466280.0,
+    "storage_score":5.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B071W5VCTH",
+    "name":"Amazon Brand \u2013 Stone & Beam Kristin Round Arm Performance Fabric Loveseat Sofa Couch, 76\"W, Sand",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":"Sand",
+    "style":"Transitional",
+    "width_mm":1930.0,
+    "depth_mm":940.0,
+    "height_mm":952.0,
+    "volume_mm3":1727118400.0,
+    "footprint_mm2":1814200.0,
+    "storage_score":24.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07B7J5BC2",
+    "name":"Amazon Brand \u2013 Stone & Beam Alan Casual Wood Media TV Console Table, 62\"W, Washed Navy and Gold",
+    "category":"shelf",
+    "brand":"Stone & Beam",
+    "color":"Washed Navy",
+    "style":"62\" Media Console",
+    "width_mm":718.0,
+    "depth_mm":1575.0,
+    "height_mm":457.0,
+    "volume_mm3":516798450.0,
+    "footprint_mm2":1130850.0,
+    "storage_score":12.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B075X4JJL7",
+    "name":"Amazon Brand \u2013 Stone & Beam Elmore Pillow-Top Armless Chair, 24\"W, Iron",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Iron",
+    "style":"Transitional",
+    "width_mm":610.0,
+    "depth_mm":838.0,
+    "height_mm":889.0,
+    "volume_mm3":454439020.0,
+    "footprint_mm2":511180.0,
+    "storage_score":66.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07TC2NYYX",
+    "name":"Ett m\u00e4rke fr\u00e5n Amazon \u2013 Movian Tisza \u2013 kontorsstol\/vridstol basic med justerbar sitth\u00f6jd 57 x 60 x 95 cm, svart",
+    "category":"chair",
+    "brand":"Movian",
+    "color":"svart",
+    "style":null,
+    "width_mm":600.0,
+    "depth_mm":570.0,
+    "height_mm":950.0,
+    "volume_mm3":324900000.0,
+    "footprint_mm2":342000.0,
+    "storage_score":82.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07SQ9P548",
+    "name":"Amazon Brand - Solimo Veronica Engineered Wood Coffee Table (Espresso Finish)",
+    "category":"table",
+    "brand":"Amazon Brand - Solimo",
+    "color":"Espresso",
+    "style":"Contemporary",
+    "width_mm":590.0,
+    "depth_mm":1050.0,
+    "height_mm":460.0,
+    "volume_mm3":284970000.0,
+    "footprint_mm2":619500.0,
+    "storage_score":34.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07JGPKS7X",
+    "name":"Marchio Amazon -\u00a0Movian, credenza modello Lek, 100 x 80 x 40 cm, colore bianco",
+    "category":"cabinet",
+    "brand":"Movian",
+    "color":"Bianco",
+    "style":"credenza a 2 sportelli e 4 cassetti",
+    "width_mm":400.0,
+    "depth_mm":1000.0,
+    "height_mm":800.0,
+    "volume_mm3":320000000.0,
+    "footprint_mm2":400000.0,
+    "storage_score":72.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07B4MD55M",
+    "name":"Amazon Brand \u2013 Stone & Beam Edmunds Traditional Leather Recliner, 30\"W, Driftwood",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Driftwood Leather",
+    "style":"Modern",
+    "width_mm":1118.0,
+    "depth_mm":838.0,
+    "height_mm":991.0,
+    "volume_mm3":928452044.0,
+    "footprint_mm2":936884.0,
+    "storage_score":44.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B072PZ4LQ2",
+    "name":"Amazon Brand \u2013 Rivet Emerly Modern Living Room Chair, 41\"W, Ecru",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Ecru",
+    "style":null,
+    "width_mm":889.0,
+    "depth_mm":1041.0,
+    "height_mm":864.0,
+    "volume_mm3":799587936.0,
+    "footprint_mm2":925449.0,
+    "storage_score":41.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07YGC6F4S",
+    "name":"Amazon Brand - Solimo Printed Fabric Hanging Closet Organiser, 3 Shelves, Pink",
+    "category":"shelf",
+    "brand":"Amazon Brand - Solimo",
+    "color":"Pink",
+    "style":"3 Shelves",
+    "width_mm":300.0,
+    "depth_mm":600.0,
+    "height_mm":200.0,
+    "volume_mm3":36000000.0,
+    "footprint_mm2":180000.0,
+    "storage_score":46.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07RHB221M",
+    "name":"Amazon Brand - Solimo Bliss Leatherette 1 Seater Sofa (Brown)",
+    "category":"sofa",
+    "brand":"Amazon Brand - Solimo",
+    "color":"Buff Beige",
+    "style":"Contemporary",
+    "width_mm":8450.0,
+    "depth_mm":9000.0,
+    "height_mm":8000.0,
+    "volume_mm3":608400000000.0,
+    "footprint_mm2":76050000.0,
+    "storage_score":1.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B082QDKRC5",
+    "name":"Amazon Brand \u2013 Rivet Bayard Contemporary Leather Couch with Curved Back and Armrests, 76\"W, Cognac",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Cognac",
+    "style":"Sofa",
+    "width_mm":870.0,
+    "depth_mm":1930.0,
+    "height_mm":830.0,
+    "volume_mm3":1393653000.0,
+    "footprint_mm2":1679100.0,
+    "storage_score":21.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07QBQFBBV",
+    "name":"Stone & Beam Flared-Back Dining Chair, 37\"H, Set of 2, Gray",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Praline",
+    "style":null,
+    "width_mm":572.0,
+    "depth_mm":622.0,
+    "height_mm":927.0,
+    "volume_mm3":329811768.0,
+    "footprint_mm2":355784.0,
+    "storage_score":80.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07Q3WM678",
+    "name":"Amazonbasics Swivel Compact Adjustable Foam Floor Chair, Blue\/White\/Grey",
+    "category":"chair",
+    "brand":"AmazonBasics",
+    "color":"Blue",
+    "style":"Compact chair",
+    "width_mm":419.0,
+    "depth_mm":660.0,
+    "height_mm":521.0,
+    "volume_mm3":144077340.0,
+    "footprint_mm2":276540.0,
+    "storage_score":69.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07B4YNHPQ",
+    "name":"Amazon Brand \u2013 Stone & Beam Dorffel Bed, King , Gray",
+    "category":"bed",
+    "brand":"Stone & Beam",
+    "color":"Gray",
+    "style":null,
+    "width_mm":2140.0,
+    "depth_mm":2280.0,
+    "height_mm":1470.0,
+    "volume_mm3":7172424000.0,
+    "footprint_mm2":4879200.0,
+    "storage_score":4.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07RG78QJS",
+    "name":"Amazon Brand - Solimo Essential Engineered Wood Coffee Table (Wenge Finish)",
+    "category":"table",
+    "brand":"Amazon Brand - Solimo",
+    "color":"Brown",
+    "style":null,
+    "width_mm":450.0,
+    "depth_mm":930.0,
+    "height_mm":334.0,
+    "volume_mm3":139779000.0,
+    "footprint_mm2":418500.0,
+    "storage_score":36.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07M6PKCPV",
+    "name":"Amazon Brand \u2013 Ravenna Home Traditional Solid Pine End Table, 23.62\"W, Oak Finish",
+    "category":"table",
+    "brand":"Ravenna Home",
+    "color":"White",
+    "style":"End Table",
+    "width_mm":600.0,
+    "depth_mm":550.0,
+    "height_mm":550.0,
+    "volume_mm3":181500000.0,
+    "footprint_mm2":330000.0,
+    "storage_score":64.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B00NUS5GXA",
+    "name":"AmazonBasics 5-Shelf Shelving Unit on Wheels - Chrome",
+    "category":"shelf",
+    "brand":"AmazonBasics",
+    "color":"Chrome",
+    "style":"Old model",
+    "width_mm":356.0,
+    "depth_mm":762.0,
+    "height_mm":1588.0,
+    "volume_mm3":430779936.0,
+    "footprint_mm2":271272.0,
+    "storage_score":96.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07B4MN2W9",
+    "name":"Amazon Brand \u2013 Stone & Beam Andover Modern Rectangle Ottoman, 32\"W, Light Blue",
+    "category":"ottoman",
+    "brand":"Stone & Beam",
+    "color":"Light Blue",
+    "style":null,
+    "width_mm":610.0,
+    "depth_mm":889.0,
+    "height_mm":711.0,
+    "volume_mm3":385568190.0,
+    "footprint_mm2":542290.0,
+    "storage_score":54.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07STFRDFK",
+    "name":"Amazon Brand - Solimo Kaya Engineered Wood Coffee Table (Espresso Finish)",
+    "category":"table",
+    "brand":"Amazon Brand - Solimo",
+    "color":"Espresso",
+    "style":"Contemporary",
+    "width_mm":700.0,
+    "depth_mm":1100.0,
+    "height_mm":425.0,
+    "volume_mm3":327250000.0,
+    "footprint_mm2":770000.0,
+    "storage_score":25.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B082VSXML3",
+    "name":"Amazon Brand - Ravenna Home Archer Outdoor Patio Steel Dining Table with Panel Top, 66.14\"W, Gray",
+    "category":"table",
+    "brand":"Ravenna Home",
+    "color":"Grey",
+    "style":"Dining Table",
+    "width_mm":914.0,
+    "depth_mm":1680.0,
+    "height_mm":735.0,
+    "volume_mm3":1128607200.0,
+    "footprint_mm2":1535520.0,
+    "storage_score":19.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07BW8Q16K",
+    "name":"Amazon Brand \u2013 Stone & Beam Andover Modern Right U-Sectional Sofa, 134\"W, Pewter",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":"Pewter",
+    "style":null,
+    "width_mm":1041.0,
+    "depth_mm":2235.0,
+    "height_mm":787.0,
+    "volume_mm3":1831061745.0,
+    "footprint_mm2":2326635.0,
+    "storage_score":7.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07J2R9Y7F",
+    "name":"Amazon Brand \u2013 Rivet Willard Contemporary Accent Lounge Chair, 26\"W, Slate",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Slate Velvet",
+    "style":"Transitional",
+    "width_mm":864.0,
+    "depth_mm":711.0,
+    "height_mm":762.0,
+    "volume_mm3":468099648.0,
+    "footprint_mm2":614304.0,
+    "storage_score":53.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07QPZK6MJ",
+    "name":"Marque Amazon - Movian Ritom - Table de chevet, 35\u00a0x\u00a045\u00a0x\u00a059\u00a0cm (longueur\u00a0x\u00a0largeur\u00a0x\u00a0hauteur), Blanc brillant",
+    "category":"table",
+    "brand":"Movian",
+    "color":"Blanc Brillant",
+    "style":"Table de chevet",
+    "width_mm":450.0,
+    "depth_mm":350.0,
+    "height_mm":590.0,
+    "volume_mm3":92925000.0,
+    "footprint_mm2":157500.0,
+    "storage_score":93.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"+",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B086VZ3MYR",
+    "name":"Stone & Beam Alcoff Upholstered Power Recliner Sofa, 87\" W, Blue",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Blue",
+    "style":"Power Reclining Sofa",
+    "width_mm":2210.0,
+    "depth_mm":1016.0,
+    "height_mm":1067.0,
+    "volume_mm3":2395799120.0,
+    "footprint_mm2":2245360.0,
+    "storage_score":18.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07B4GVMDC",
+    "name":"Amazon Brand \u2013 Stone & Beam Andover Square Ottoman, 33\"W, Charcoal Leather",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Charcoal",
+    "style":null,
+    "width_mm":610.0,
+    "depth_mm":914.0,
+    "height_mm":914.0,
+    "volume_mm3":509591560.0,
+    "footprint_mm2":557540.0,
+    "storage_score":62.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B071FMSYCH",
+    "name":"Amazon Brand \u2013 Rivet Farr Lotus Accent Chair, Felt Grey",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Felt Grey",
+    "style":"Scandinavian",
+    "width_mm":861.0,
+    "depth_mm":1011.0,
+    "height_mm":861.0,
+    "volume_mm3":749475531.0,
+    "footprint_mm2":870471.0,
+    "storage_score":43.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07R24CNHK",
+    "name":"UMI Essentials Wingback Fireside Recliner Armchair in Check Tartan Fabric Reclining Chair Sofa (Tartan Blue)",
+    "category":"chair",
+    "brand":"UMI",
+    "color":null,
+    "style":null,
+    "width_mm":920.0,
+    "depth_mm":850.0,
+    "height_mm":1010.0,
+    "volume_mm3":789820000.0,
+    "footprint_mm2":782000.0,
+    "storage_score":53.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B000WSIZC0",
+    "name":"Pinzon Dark Wedge Coffee Table",
+    "category":"table",
+    "brand":"Pinzon by Amazon",
+    "color":"Dark Wenge",
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B071J7Q9WM",
+    "name":"Amazon Brand \u2013 Rivet Audrey Modern Ottoman, 39\"W, Grey Storm",
+    "category":"ottoman",
+    "brand":"Rivet",
+    "color":"Grey Storm",
+    "style":null,
+    "width_mm":1001.0,
+    "depth_mm":1001.0,
+    "height_mm":450.0,
+    "volume_mm3":450900450.0,
+    "footprint_mm2":1002001.0,
+    "storage_score":14.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07GFG6JN7",
+    "name":"Amazon Brand -\u00a0Movian Aggol Lift-Top Coffee Table with 1-Shelf, 50 x 100 x 44cm, Black\/Dark Grey",
+    "category":"table",
+    "brand":"Movian",
+    "color":"Black\/Grey",
+    "style":"Lift-Top Coffee Table With Lower Shelf",
+    "width_mm":1000.0,
+    "depth_mm":500.0,
+    "height_mm":440.0,
+    "volume_mm3":220000000.0,
+    "footprint_mm2":500000.0,
+    "storage_score":38.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07SSJDRL4",
+    "name":"Amazon Brand - Solimo Brooke Three Seater Fabric Sofa",
+    "category":"sofa",
+    "brand":"Amazon Brand - Solimo",
+    "color":"Buff Beige",
+    "style":"Contemporary",
+    "width_mm":930.0,
+    "depth_mm":1855.0,
+    "height_mm":800.0,
+    "volume_mm3":1380120000.0,
+    "footprint_mm2":1725150.0,
+    "storage_score":16.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B075X4VW2P",
+    "name":"Amazon Brand \u2013 Rivet Uptown Mid-Century Velvet Tufted Customizable Daybed Sofa, 78\"W, Dove Grey &amp; Black",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Dove Grey",
+    "style":"Transitional",
+    "width_mm":1981.0,
+    "depth_mm":686.0,
+    "height_mm":635.0,
+    "volume_mm3":862943410.0,
+    "footprint_mm2":1358966.0,
+    "storage_score":17.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07HZ6HH5Q",
+    "name":"Amazon Brand \u2013 Stone & Beam Dalton Ottoman, 23\"W, Charcoal",
+    "category":"ottoman",
+    "brand":"Stone & Beam",
+    "color":"Charcoal",
+    "style":null,
+    "width_mm":457.0,
+    "depth_mm":838.0,
+    "height_mm":457.0,
+    "volume_mm3":175015462.0,
+    "footprint_mm2":382966.0,
+    "storage_score":50.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07GFL6RFK",
+    "name":"Marca Amazon -\u00a0Movian Idro Modern - Escritorio con 4 cajones, 56 x 110 x 73 cm (gris)",
+    "category":"desk",
+    "brand":"Movian",
+    "color":"Gris",
+    "style":"Escritorio 4-cajones",
+    "width_mm":1100.0,
+    "depth_mm":560.0,
+    "height_mm":730.0,
+    "volume_mm3":449680000.0,
+    "footprint_mm2":616000.0,
+    "storage_score":49.0,
+    "room_types":[
+      "office"
+    ],
+    "storage_indicator":{
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07HZ7K2TZ",
+    "name":"Amazon Brand \u2013 Stone & Beam Fischer Sleeper Chair, 51\"W, Stone Fabric",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Stone",
+    "style":"Rustic",
+    "width_mm":864.0,
+    "depth_mm":940.0,
+    "height_mm":1346.0,
+    "volume_mm3":1093167360.0,
+    "footprint_mm2":812160.0,
+    "storage_score":63.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07Y73ZMBB",
+    "name":"AmazonBasics Modern Ladder Bookcase with Solid Rubber Wood Frame - White (Renewed)",
+    "category":"shelf",
+    "brand":"AmazonBasics",
+    "color":"White",
+    "style":"Modern",
+    "width_mm":631.0,
+    "depth_mm":356.0,
+    "height_mm":1780.0,
+    "volume_mm3":399852080.0,
+    "footprint_mm2":224636.0,
+    "storage_score":97.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07K7MGC5H",
+    "name":"Amazon Brand - Alkove - Hayes - Extending Solid Wood Table, 205 cm, Wild Oak",
+    "category":"table",
+    "brand":"Alkove",
+    "color":"Natural",
+    "style":"Modern",
+    "width_mm":900.0,
+    "depth_mm":1600.0,
+    "height_mm":750.0,
+    "volume_mm3":1080000000.0,
+    "footprint_mm2":1440000.0,
+    "storage_score":23.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07MBFDS3B",
+    "name":"Amazon Brand \u2013 Ravenna Home Traditional Solid Pine End Table, 24\"W, Espresso Finish",
+    "category":"table",
+    "brand":"Ravenna Home",
+    "color":"Dark Espresso",
+    "style":"End Table",
+    "width_mm":600.0,
+    "depth_mm":600.0,
+    "height_mm":610.0,
+    "volume_mm3":219600000.0,
+    "footprint_mm2":360000.0,
+    "storage_score":65.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07BTRTC76",
+    "name":"Amazon Brand \u2013 Rivet Ian Modern Wood Dining Kitchen Chairs, 33 Inch Height, Set of 2, Grey",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Gray",
+    "style":null,
+    "width_mm":610.0,
+    "depth_mm":546.0,
+    "height_mm":914.0,
+    "volume_mm3":304416840.0,
+    "footprint_mm2":333060.0,
+    "storage_score":82.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B075X2WN27",
+    "name":"Amazon Brand \u2013 Rivet Aiden Tufted Mid-Century Modern Leather Accent Chair, 35.4\"W, Cognac",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Cognac",
+    "style":"Mid-Century modern",
+    "width_mm":899.0,
+    "depth_mm":919.0,
+    "height_mm":770.0,
+    "volume_mm3":636159370.0,
+    "footprint_mm2":826181.0,
+    "storage_score":40.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07DBFQ4CT",
+    "name":"Ravenna Home Larry Contemporary Tufted Round Ottoman, 33.46\"W, Beige",
+    "category":"ottoman",
+    "brand":"Ravenna Home",
+    "color":"Beige",
+    "style":null,
+    "width_mm":850.0,
+    "depth_mm":850.0,
+    "height_mm":480.0,
+    "volume_mm3":346800000.0,
+    "footprint_mm2":722500.0,
+    "storage_score":31.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07DBHC337",
+    "name":"Amazon Brand \u2013 Ravenna Home Classic Rolled Arm Nailedhead Faux Leather Accent Chair, 35\"W, Brown",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Brown",
+    "style":"Rustic",
+    "width_mm":889.0,
+    "depth_mm":826.0,
+    "height_mm":876.0,
+    "volume_mm3":643259064.0,
+    "footprint_mm2":734314.0,
+    "storage_score":50.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B002KMI98G",
+    "name":"Strathwood Padre All-Weather Wicker Stackable Chair, Set of 2",
+    "category":"chair",
+    "brand":"Strathwood by Amazon.com",
+    "color":"Java\/silver",
+    "style":null,
+    "width_mm":0.0,
+    "depth_mm":0.0,
+    "height_mm":0.0,
+    "volume_mm3":0.0,
+    "footprint_mm2":0.0,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07HZ1LZS1",
+    "name":"Amazon Brand \u2013 Rivet Emerly Modern Sectional Sofa, 96\"W, Emerald",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Emerald",
+    "style":null,
+    "width_mm":864.0,
+    "depth_mm":1676.0,
+    "height_mm":1016.0,
+    "volume_mm3":1471233024.0,
+    "footprint_mm2":1448064.0,
+    "storage_score":33.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07VMLFZCD",
+    "name":"Marque Amazon - Movian Morat - Canap\u00e9 3\u00a0places, 90\u00a0x\u00a0212\u00a0x\u00a080\u00a0cm (longueur\u00a0x\u00a0largeur\u00a0x\u00a0hauteur), Marron",
+    "category":"sofa",
+    "brand":"Movian",
+    "color":"Marron",
+    "style":"Canap\u00e9 3\u00a0places",
+    "width_mm":2120.0,
+    "depth_mm":900.0,
+    "height_mm":800.0,
+    "volume_mm3":1526400000.0,
+    "footprint_mm2":1908000.0,
+    "storage_score":12.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07PW6XQY8",
+    "name":"Amazon Brand - Solimo Spectra Solid Wood Bunk Bed (Wenge Finish)",
+    "category":"bed",
+    "brand":"Amazon Brand - Solimo",
+    "color":"Black",
+    "style":"Traditional",
+    "width_mm":1057.0,
+    "depth_mm":1995.0,
+    "height_mm":1643.0,
+    "volume_mm3":3464618745.0,
+    "footprint_mm2":2108715.0,
+    "storage_score":36.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B071P9WJBT",
+    "name":"Amazon Brand \u2013 Stone & Beam Parson 6-Drawer Wood Bedroom Dresser, 60\"W, Natural",
+    "category":"dresser",
+    "brand":"Stone & Beam",
+    "color":"Brown",
+    "style":"Dresser",
+    "width_mm":483.0,
+    "depth_mm":1524.0,
+    "height_mm":889.0,
+    "volume_mm3":654385788.0,
+    "footprint_mm2":736092.0,
+    "storage_score":52.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07D5M9R47",
+    "name":"AmazonBasics Classroom \u30d6\u30ed\u30c3\u30af\u53ce\u7d0d\u30ad\u30e3\u30d3\u30cd\u30c3\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u4ed8\u304d\u30014\u30ad\u30e5\u30fc\u30d3",
+    "category":"cabinet",
+    "brand":"Amazon\u30d9\u30fc\u30b7\u30c3\u30af(AmazonBasics)",
+    "color":null,
+    "style":null,
+    "width_mm":330.0,
+    "depth_mm":610.0,
+    "height_mm":610.0,
+    "volume_mm3":122793000.0,
+    "footprint_mm2":201300.0,
+    "storage_score":86.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07B7B8KNR",
+    "name":"Amazon Brand \u2013 Stone & Beam Reclaimed Wood Ladder-Rung Counter-Height Dining Table Bar, 36\"H x 44\"L, Fir",
+    "category":"table",
+    "brand":"Stone & Beam",
+    "color":"Brown",
+    "style":null,
+    "width_mm":508.0,
+    "depth_mm":1118.0,
+    "height_mm":914.0,
+    "volume_mm3":519100816.0,
+    "footprint_mm2":567944.0,
+    "storage_score":61.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07VN7936W",
+    "name":"AmazonBasics - Canap\u00e9 convertible 3 places, 182 x 80 x 80 cm, Gris fonc\u00e9",
+    "category":"sofa",
+    "brand":"AmazonBasics",
+    "color":"Gris Fonc\u00e9",
+    "style":"Canap\u00e9",
+    "width_mm":820.0,
+    "depth_mm":1820.0,
+    "height_mm":770.0,
+    "volume_mm3":1149148000.0,
+    "footprint_mm2":1492400.0,
+    "storage_score":22.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07HXDTNGR",
+    "name":"AmazonBasics Estanter\u00eda de 5 niveles con cesta",
+    "category":"shelf",
+    "brand":"Amazon Basics",
+    "color":null,
+    "style":"5-Tier Shelf with Basket",
+    "width_mm":285.0,
+    "depth_mm":345.0,
+    "height_mm":1403.0,
+    "volume_mm3":137949975.0,
+    "footprint_mm2":98325.0,
+    "storage_score":99.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07KR2KJKB",
+    "name":"Denim Swatch, Ravenna Home",
+    "category":"bench",
+    "brand":"Ravenna Home",
+    "color":"Denim",
+    "style":"Raconteur",
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B088HJTY99",
+    "name":"AmazonBasics Kids Folding Moon Indoor Papasan Chair for Children - Solid Pink (Renewed)",
+    "category":"chair",
+    "brand":"AmazonBasics",
+    "color":"Solid Pink",
+    "style":null,
+    "width_mm":410.0,
+    "depth_mm":520.0,
+    "height_mm":480.0,
+    "volume_mm3":102336000.0,
+    "footprint_mm2":213200.0,
+    "storage_score":77.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07P5LN1YJ",
+    "name":"Amazon Brand \u2013 Rivet Andrews Contemporary Chair with Removable Cushions, 40\"W, Light Grey",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Light Grey",
+    "style":null,
+    "width_mm":940.0,
+    "depth_mm":1020.0,
+    "height_mm":920.0,
+    "volume_mm3":882096000.0,
+    "footprint_mm2":958800.0,
+    "storage_score":42.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07TJV6Q7B",
+    "name":"Amazon-m\u00e4rke - KENSINGTON vridl\u00e5s Modern Bottlegreen Velvet",
+    "category":"chair",
+    "brand":"Movian",
+    "color":"Bottlegreen Velvet",
+    "style":"Modern",
+    "width_mm":595.0,
+    "depth_mm":575.0,
+    "height_mm":805.0,
+    "volume_mm3":275410625.0,
+    "footprint_mm2":342125.0,
+    "storage_score":78.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07B4W31CX",
+    "name":"Amazon Brand \u2013 Stone & Beam Industry French Metal Queen Bed with Headboard, 63.5\"W, Black",
+    "category":"bed",
+    "brand":"Stone & Beam",
+    "color":"Black",
+    "style":null,
+    "width_mm":1613.0,
+    "depth_mm":2159.0,
+    "height_mm":1422.0,
+    "volume_mm3":4952068074.0,
+    "footprint_mm2":3482467.0,
+    "storage_score":12.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B00GBVDK40",
+    "name":"Strathwood Whidbey Cast-Aluminum Round Dining Table",
+    "category":"table",
+    "brand":"Strathwood by Amazon.com",
+    "color":null,
+    "style":null,
+    "width_mm":1.0,
+    "depth_mm":1219.0,
+    "height_mm":719.0,
+    "volume_mm3":876461.0,
+    "footprint_mm2":1219.0,
+    "storage_score":100.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"+",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07SHYN8WK",
+    "name":"Marchio Amazon -\u00a0Alkove Elvas - Divano Modulare - Modulo poggiapiedi basso, 48 x 93 cm, grigio",
+    "category":"sofa",
+    "brand":"Alkove",
+    "color":"Grigio",
+    "style":"POGGIAPIEDI (48 x 93)",
+    "width_mm":930.0,
+    "depth_mm":480.0,
+    "height_mm":330.0,
+    "volume_mm3":147312000.0,
+    "footprint_mm2":446400.0,
+    "storage_score":34.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07CRLHXLL",
+    "name":"Stone & Beam Leighton Sofa Stone & Beam",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07HZ7HP3W",
+    "name":"Amazon Brand \u2013 Stone & Beam Clayton Reclining Contemporary Leather Living-Room Chair, 30\"W, Adobe",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Adobe",
+    "style":null,
+    "width_mm":1041.0,
+    "depth_mm":1041.0,
+    "height_mm":813.0,
+    "volume_mm3":881032653.0,
+    "footprint_mm2":1083681.0,
+    "storage_score":34.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07B4L9P6Y",
+    "name":"Amazon Brand \u2013 Stone & Beam Appleton Farmhouse Leather Recliner, 35\"W, Charcoal",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Charcoal",
+    "style":null,
+    "width_mm":1118.0,
+    "depth_mm":965.0,
+    "height_mm":1092.0,
+    "volume_mm3":1178126040.0,
+    "footprint_mm2":1078870.0,
+    "storage_score":43.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07B7BJK89",
+    "name":"Amazon Brand \u2013 Rivet Boundary Modern Reclaimed Fir Wood Dining Kitchen Table, 66\"L, Honey Brown",
+    "category":"table",
+    "brand":"Rivet",
+    "color":"Brown",
+    "style":null,
+    "width_mm":950.0,
+    "depth_mm":1524.0,
+    "height_mm":780.0,
+    "volume_mm3":1129284000.0,
+    "footprint_mm2":1447800.0,
+    "storage_score":24.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07DBHBCXQ",
+    "name":"Amazon Brand \u2013 Ravenna Home Eddison Modern Slope Accent Chair, 32\"W, Blue",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Blue",
+    "style":"Transitional",
+    "width_mm":813.0,
+    "depth_mm":762.0,
+    "height_mm":889.0,
+    "volume_mm3":550740834.0,
+    "footprint_mm2":619506.0,
+    "storage_score":59.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07J55B89H",
+    "name":"Movian Andromeda 2 Seater Grey",
+    "category":"chair",
+    "brand":"Movian",
+    "color":"Grey",
+    "style":"Modern",
+    "width_mm":900.0,
+    "depth_mm":1840.0,
+    "height_mm":800.0,
+    "volume_mm3":1324800000.0,
+    "footprint_mm2":1656000.0,
+    "storage_score":19.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07DW5LBLG",
+    "name":"Ravenna Home Cross Flush Mounted Wooden Coffee Table",
+    "category":"table",
+    "brand":"Ravenna Home",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07KRB8CGJ",
+    "name":"Brown Swatch, Ravenna Home",
+    "category":"sofa",
+    "brand":"Ravenna Home",
+    "color":"Brown",
+    "style":"Wyatt",
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07H8SZNZ3",
+    "name":"Amazon Brand - Movian Kuban Coffee Table Wellington Oak Effect",
+    "category":"table",
+    "brand":"Movian",
+    "color":"Wellington eiken",
+    "style":"coffee table",
+    "width_mm":700.0,
+    "depth_mm":1350.0,
+    "height_mm":450.0,
+    "volume_mm3":425250000.0,
+    "footprint_mm2":945000.0,
+    "storage_score":18.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07KXP7MT7",
+    "name":"Rivet Abel Mid-Century Accent Chair Fabric and Metal",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B01NCOR0VZ",
+    "name":"Amazon Brand -\u00a0Movian Aggol Lift-Top Coffee Table with 1-Shelf, 50 x 100 x 44cm, White",
+    "category":"table",
+    "brand":"Movian",
+    "color":"White",
+    "style":"Lift-Top Coffee Table With Lower Shelf",
+    "width_mm":1000.0,
+    "depth_mm":500.0,
+    "height_mm":440.0,
+    "volume_mm3":220000000.0,
+    "footprint_mm2":500000.0,
+    "storage_score":38.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07B7MQD5P",
+    "name":"Amazon Brand \u2013 Rivet Mid-Century Modern Oblong End\/Side\/Nesting Tables, Firwood",
+    "category":"table",
+    "brand":"Rivet",
+    "color":"Firwood",
+    "style":null,
+    "width_mm":559.0,
+    "depth_mm":1190.0,
+    "height_mm":591.0,
+    "volume_mm3":393139110.0,
+    "footprint_mm2":665210.0,
+    "storage_score":39.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07K7K7GLP",
+    "name":"Alkove - Hayes - Set de 2 sillas de madera maciza con asiento tapizado (haya lacada)",
+    "category":"chair",
+    "brand":"Alkove",
+    "color":"Natural",
+    "style":"X",
+    "width_mm":480.0,
+    "depth_mm":440.0,
+    "height_mm":913.0,
+    "volume_mm3":192825600.0,
+    "footprint_mm2":211200.0,
+    "storage_score":94.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07K6N3TNH",
+    "name":"Amazon Brand -\u00a0Movian Sava 2-Door 1-Drawer Writing Desk, 140 x 55 x 76cm, White",
+    "category":"desk",
+    "brand":"Movian",
+    "color":"High Gloss White",
+    "style":"Modern",
+    "width_mm":550.0,
+    "depth_mm":1400.0,
+    "height_mm":760.0,
+    "volume_mm3":585200000.0,
+    "footprint_mm2":770000.0,
+    "storage_score":43.0,
+    "room_types":[
+      "office"
+    ],
+    "storage_indicator":{
+      "office":"+"
+    }
+  },
+  {
+    "id":"B0728NW8FP",
+    "name":"Amazon Brand \u2013 Rivet Ashworth Armless Velvet Accent Chair, 21.6\"W, Navy",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Navy",
+    "style":"Transitional",
+    "width_mm":681.0,
+    "depth_mm":551.0,
+    "height_mm":820.0,
+    "volume_mm3":307689420.0,
+    "footprint_mm2":375231.0,
+    "storage_score":75.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07QTKCKVB",
+    "name":"Amazon Brand -\u00a0Movian Ulla Corner Desk with 5-Storage Compartments with Adjustable Shelves, 94 x 94 x 98.6 cm, White",
+    "category":"desk",
+    "brand":"Movian",
+    "color":"White",
+    "style":"Corner desk",
+    "width_mm":940.0,
+    "depth_mm":940.0,
+    "height_mm":986.0,
+    "volume_mm3":871229600.0,
+    "footprint_mm2":883600.0,
+    "storage_score":47.0,
+    "room_types":[
+      "office"
+    ],
+    "storage_indicator":{
+      "office":"+"
+    }
+  },
+  {
+    "id":"B071SLGX8T",
+    "name":"Amazon Brand \u2013 Stone & Beam Kristin Round Arm Performance Fabric Loveseat Sofa Couch, 76\"W, Stone",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":"Stone",
+    "style":"Transitional",
+    "width_mm":1930.0,
+    "depth_mm":940.0,
+    "height_mm":952.0,
+    "volume_mm3":1727118400.0,
+    "footprint_mm2":1814200.0,
+    "storage_score":24.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B073G8VWJ6",
+    "name":"Amazon Brand \u2013 Stone & Beam Benton Square Ottoman, 35\"W, Damask Navy",
+    "category":"ottoman",
+    "brand":"Stone & Beam",
+    "color":"Navy",
+    "style":null,
+    "width_mm":889.0,
+    "depth_mm":889.0,
+    "height_mm":406.0,
+    "volume_mm3":320870326.0,
+    "footprint_mm2":790321.0,
+    "storage_score":22.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07CTNLFSF",
+    "name":"Rivet 25010045 Nietenmuster Hellblau",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Hellblau",
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B000HVGJMK",
+    "name":"Strathwood Sanibel Cast Aluminum Balcony Table",
+    "category":"table",
+    "brand":"Strathwood by Amazon.com",
+    "color":null,
+    "style":null,
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07FM66MSY",
+    "name":"AmazonBasics Big & Tall Executive, Adjustable, Swivel Office Chair with Armrest, Black Leather",
+    "category":"chair",
+    "brand":"AmazonBasics",
+    "color":"Black",
+    "style":"Modern",
+    "width_mm":750.0,
+    "depth_mm":790.0,
+    "height_mm":1155.0,
+    "volume_mm3":684337500.0,
+    "footprint_mm2":592500.0,
+    "storage_score":69.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07QFRSC43",
+    "name":"Amazon Brand \u2013 Rivet Modern High-Back Barstool, Set of 2, 43.5\"H, Blue",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Blue",
+    "style":null,
+    "width_mm":527.0,
+    "depth_mm":489.0,
+    "height_mm":1080.0,
+    "volume_mm3":278319240.0,
+    "footprint_mm2":257703.0,
+    "storage_score":94.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07HZ7634C",
+    "name":"Amazon Brand \u2013 Stone & Beam Blaine Modern Loveseat Sofa, 55.\"W, Beige",
+    "category":"sofa",
+    "brand":"Stone & Beam",
+    "color":"Beige",
+    "style":"Transitional",
+    "width_mm":960.0,
+    "depth_mm":1420.0,
+    "height_mm":889.0,
+    "volume_mm3":1211884800.0,
+    "footprint_mm2":1363200.0,
+    "storage_score":30.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07H8SH3WJ",
+    "name":"Marca Amazon -\u00a0Movian Moselle - C\u00f3moda peque\u00f1a (roble Sonoma\/blanco alpino)",
+    "category":"cabinet",
+    "brand":"Movian",
+    "color":"Roble Sonoma\/Blanco Alpino",
+    "style":"Small Chest Of Drawers",
+    "width_mm":500.0,
+    "depth_mm":1110.0,
+    "height_mm":780.0,
+    "volume_mm3":432900000.0,
+    "footprint_mm2":555000.0,
+    "storage_score":58.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07NZX7HQW",
+    "name":"Ravenna Home Classic Plank-Top End Table, 18\"W, Black Wood",
+    "category":"table",
+    "brand":"Ravenna Home",
+    "color":"Black",
+    "style":null,
+    "width_mm":457.0,
+    "depth_mm":610.0,
+    "height_mm":610.0,
+    "volume_mm3":170049700.0,
+    "footprint_mm2":278770.0,
+    "storage_score":75.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"+",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07B4Y45GY",
+    "name":"Amazon Brand \u2013 Stone & Beam Modern Dresser, 60\"W, Weathered Oak",
+    "category":"dresser",
+    "brand":"Stone & Beam",
+    "color":"Weathered Oak",
+    "style":null,
+    "width_mm":1524.0,
+    "depth_mm":432.0,
+    "height_mm":864.0,
+    "volume_mm3":568829952.0,
+    "footprint_mm2":658368.0,
+    "storage_score":55.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07VSTTVNX",
+    "name":"Amazon Brand - Movian Rotsee - Sof\u00e1 de 3 plazas, 92 x 231 x 81 cm (largo x ancho x alto), verde oscuro",
+    "category":"sofa",
+    "brand":"Movian",
+    "color":"Verde Oscuro",
+    "style":"Sof\u00e1 de tres plazas",
+    "width_mm":2310.0,
+    "depth_mm":920.0,
+    "height_mm":810.0,
+    "volume_mm3":1721412000.0,
+    "footprint_mm2":2125200.0,
+    "storage_score":9.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B01MG6BPC6",
+    "name":"Vida Designs Corona Chest Of Drawers, 4 Drawer, Rustic, Solid Pine Wood.",
+    "category":"dresser",
+    "brand":"Vida Designs",
+    "color":"Pine",
+    "style":"Antique",
+    "width_mm":410.0,
+    "depth_mm":800.0,
+    "height_mm":730.0,
+    "volume_mm3":239440000.0,
+    "footprint_mm2":328000.0,
+    "storage_score":76.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B084S12MYC",
+    "name":"Amazon Brand \u2013 Stone & Beam Bergen Upholstered Dining Chair with Wood Legs, Set of 2, 20\"W, Mint Green",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Mint Green",
+    "style":"Morden",
+    "width_mm":572.0,
+    "depth_mm":508.0,
+    "height_mm":832.0,
+    "volume_mm3":241759232.0,
+    "footprint_mm2":290576.0,
+    "storage_score":83.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07SQXH1YJ",
+    "name":"AmazonBasics Metal Twin Loft Bed, Easy Assembly, Silver",
+    "category":"bed",
+    "brand":"AmazonBasics",
+    "color":"Silver",
+    "style":"loft bed",
+    "width_mm":1283.0,
+    "depth_mm":1968.0,
+    "height_mm":1416.0,
+    "volume_mm3":3575320704.0,
+    "footprint_mm2":2524944.0,
+    "storage_score":25.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B016ID34BO",
+    "name":"AmazonBasics Office Chair",
+    "category":"chair",
+    "brand":"AmazonBasics",
+    "color":"Black",
+    "style":"Single",
+    "width_mm":489.0,
+    "depth_mm":610.0,
+    "height_mm":972.0,
+    "volume_mm3":289937880.0,
+    "footprint_mm2":298290.0,
+    "storage_score":89.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07MFYTSDF",
+    "name":"Ravenna Home Classic Console End Table with Side Cutouts, 42\"W, Merlot Wood",
+    "category":"table",
+    "brand":"Ravenna Home",
+    "color":null,
+    "style":null,
+    "width_mm":1067.0,
+    "depth_mm":406.0,
+    "height_mm":762.0,
+    "volume_mm3":330099924.0,
+    "footprint_mm2":433202.0,
+    "storage_score":66.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B073G81Y7K",
+    "name":"Urban Living Skyline Lane Collection Lane Collection Living Room Chair Living Room Chair Klein Emerald",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Emerald",
+    "style":null,
+    "width_mm":813.0,
+    "depth_mm":813.0,
+    "height_mm":889.0,
+    "volume_mm3":587601441.0,
+    "footprint_mm2":660969.0,
+    "storage_score":56.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07PBZL4SK",
+    "name":"Amazon Brand \u2013 Rivet Andrews Contemporary Top-Grain Leather Ottoman, 30\"W, Black",
+    "category":"ottoman",
+    "brand":"Rivet",
+    "color":"Black",
+    "style":null,
+    "width_mm":550.0,
+    "depth_mm":750.0,
+    "height_mm":450.0,
+    "volume_mm3":185625000.0,
+    "footprint_mm2":412500.0,
+    "storage_score":45.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07B7DPKRJ",
+    "name":"Amazon Brand \u2013 Rivet Mid-Century Modern Wood Media TV Console Coffee Table, 47\"D, Walnut &amp; Black",
+    "category":"table",
+    "brand":"Rivet",
+    "color":null,
+    "style":"Coffee Table",
+    "width_mm":480.0,
+    "depth_mm":1199.0,
+    "height_mm":480.0,
+    "volume_mm3":276249600.0,
+    "footprint_mm2":575520.0,
+    "storage_score":37.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B082VML3Q3",
+    "name":"Amazon Brand \u2013 Rivet Frederick Mid-Century Modern Tufted Leather Living Room Chair, 38\"W, Taupe",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Taupe Leather",
+    "style":"Mid-Century Modern",
+    "width_mm":880.0,
+    "depth_mm":970.0,
+    "height_mm":800.0,
+    "volume_mm3":682880000.0,
+    "footprint_mm2":853600.0,
+    "storage_score":41.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B073P1V6HR",
+    "name":"AmazonBasics - Estanter\u00eda de cocina, Madera\/Cromo",
+    "category":"shelf",
+    "brand":"AmazonBasics",
+    "color":"Madera\/Cromo",
+    "style":null,
+    "width_mm":356.0,
+    "depth_mm":914.0,
+    "height_mm":1610.0,
+    "volume_mm3":523868240.0,
+    "footprint_mm2":325384.0,
+    "storage_score":95.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B073G947W3",
+    "name":"Amazon Brand \u2013 Stone & Beam Modern Sweeping Arm Accent Chair, 28\"W, Merlot",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Merlot",
+    "style":null,
+    "width_mm":711.0,
+    "depth_mm":737.0,
+    "height_mm":864.0,
+    "volume_mm3":452742048.0,
+    "footprint_mm2":524007.0,
+    "storage_score":62.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07DMFNXY6",
+    "name":"2L Lifestyle Carleton Side Table with Drawer Black Finish, Small",
+    "category":"table",
+    "brand":"2L Lifestyle",
+    "color":"Black",
+    "style":null,
+    "width_mm":457.0,
+    "depth_mm":406.0,
+    "height_mm":610.0,
+    "volume_mm3":113180620.0,
+    "footprint_mm2":185542.0,
+    "storage_score":90.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"+",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B072PZ4LVN",
+    "name":"Amazon Brand \u2013 Rivet Revolve Modern Upholstered Sofa Couch, 80\"W, Grey Weave",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Grey Weave",
+    "style":"Transitional",
+    "width_mm":879.0,
+    "depth_mm":2029.0,
+    "height_mm":899.0,
+    "volume_mm3":1603358409.0,
+    "footprint_mm2":1783491.0,
+    "storage_score":21.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B0831YLF39",
+    "name":"Amazon Brand \u2013 Stone & Beam Lyon Upholstered Ottoman, 45.5\"W, Linen",
+    "category":"ottoman",
+    "brand":"Stone & Beam",
+    "color":"Linen",
+    "style":null,
+    "width_mm":648.0,
+    "depth_mm":1156.0,
+    "height_mm":508.0,
+    "volume_mm3":380536704.0,
+    "footprint_mm2":749088.0,
+    "storage_score":32.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07B4YNHS7",
+    "name":"Amazon Brand \u2013 Stone & Beam Tisbury Nailhead Trim Queen Bed, 66\"W, Spinnsol Iron",
+    "category":"bed",
+    "brand":"Stone & Beam",
+    "color":"Spinnsol Iron",
+    "style":"beds",
+    "width_mm":2337.0,
+    "depth_mm":1676.0,
+    "height_mm":1422.0,
+    "volume_mm3":5569706664.0,
+    "footprint_mm2":3916812.0,
+    "storage_score":8.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07R4HFS8K",
+    "name":"AmazonBasics Ergonomischer Chefsessel mit Verstellbarer Sitzfl\u00e4che und Kopfst\u00fctze, Schwarz",
+    "category":"chair",
+    "brand":"AmazonBasics",
+    "color":"Schwarz",
+    "style":null,
+    "width_mm":670.0,
+    "depth_mm":570.0,
+    "height_mm":1100.0,
+    "volume_mm3":420090000.0,
+    "footprint_mm2":381900.0,
+    "storage_score":83.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07HGJKVXL",
+    "name":"AmazonBasics School Activity Table, Ball Glide Legs, Adjustable Height 19-30 inch (Grey\/Black) 24\"x48\" AMZ-2448TBTP-GY\/BK",
+    "category":"table",
+    "brand":"AmazonBasics",
+    "color":"Grey top\/Black edge",
+    "style":"Trapezoid",
+    "width_mm":584.0,
+    "depth_mm":1194.0,
+    "height_mm":762.0,
+    "volume_mm3":531339552.0,
+    "footprint_mm2":697296.0,
+    "storage_score":45.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07KR4GYCH",
+    "name":"Beige Swatch, Ravenna Home",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Beige",
+    "style":"Bonded Leather",
+    "width_mm":null,
+    "depth_mm":null,
+    "height_mm":null,
+    "volume_mm3":null,
+    "footprint_mm2":null,
+    "storage_score":null,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"-",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07B4N29DG",
+    "name":"Amazon Brand \u2013 Rivet Frederick Mid-Century Modern Tufted Velvet Sofa Couch, 77.5\"W, Navy Blue",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Navy Blue Velvet",
+    "style":"Glam",
+    "width_mm":813.0,
+    "depth_mm":2134.0,
+    "height_mm":864.0,
+    "volume_mm3":1498989888.0,
+    "footprint_mm2":1734942.0,
+    "storage_score":21.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07QBQF7TY",
+    "name":"Stone and Beam Chaise de salle \u00e0 manger 23\"H,- marron clair",
+    "category":"chair",
+    "brand":"Rivet",
+    "color":"Marron Clair",
+    "style":null,
+    "width_mm":876.0,
+    "depth_mm":457.0,
+    "height_mm":584.0,
+    "volume_mm3":233793888.0,
+    "footprint_mm2":400332.0,
+    "storage_score":59.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B075Z8GZ9X",
+    "name":"Amazon Brand \u2013 Stone & Beam Bateman Casual Rustic Wood Bedside Table Nightstand, Brass Hardware, 24 Inch Wide, Brown",
+    "category":"table",
+    "brand":"Stone & Beam",
+    "color":"Brown",
+    "style":"Nightstand",
+    "width_mm":610.0,
+    "depth_mm":432.0,
+    "height_mm":610.0,
+    "volume_mm3":160747200.0,
+    "footprint_mm2":263520.0,
+    "storage_score":77.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"+",
+      "office":"+"
+    }
+  },
+  {
+    "id":"B07LC8L9V5",
+    "name":"Amazon Brand - Solimo Antares Engineered Wood Single Bed (Caramel Mahogany Finish)",
+    "category":"bed",
+    "brand":"Amazon Brand - Solimo",
+    "color":"Sienna Cherry",
+    "style":"Antares",
+    "width_mm":1030.0,
+    "depth_mm":1150.0,
+    "height_mm":130.0,
+    "volume_mm3":153985000.0,
+    "footprint_mm2":1184500.0,
+    "storage_score":1.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07B7B6PL8",
+    "name":"Stone & Beam Hughes Casual Wood Kitchen Dining Chair, Set of 2, Beige",
+    "category":"chair",
+    "brand":"Stone & Beam",
+    "color":"Beige",
+    "style":null,
+    "width_mm":483.0,
+    "depth_mm":610.0,
+    "height_mm":991.0,
+    "volume_mm3":291978330.0,
+    "footprint_mm2":294630.0,
+    "storage_score":90.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07B4W2FKR",
+    "name":"Amazon Brand \u2013 Rivet A8910 Dresser",
+    "category":"bed",
+    "brand":"Rivet",
+    "color":null,
+    "style":"Dresser",
+    "width_mm":1524.0,
+    "depth_mm":457.0,
+    "height_mm":838.0,
+    "volume_mm3":583640184.0,
+    "footprint_mm2":696468.0,
+    "storage_score":51.0,
+    "room_types":[
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07JJZ22NB",
+    "name":"Amazon-m\u00e4rke - Movian Crow Matsalsstol Ma\u00dfe: 79.5 H x 55.0 L x 59.0 B Bergsbl\u00e5",
+    "category":"chair",
+    "brand":"Movian",
+    "color":"Bergsbl\u00e5",
+    "style":"Matsalsstol",
+    "width_mm":360.0,
+    "depth_mm":360.0,
+    "height_mm":450.0,
+    "volume_mm3":58320000.0,
+    "footprint_mm2":129600.0,
+    "storage_score":91.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B07HSG8DPR",
+    "name":"Amazon Brand \u2013 Stone & Beam Industrial Round Coffee Table, 48\"W, Wood & Dark Metal",
+    "category":"table",
+    "brand":"Stone & Beam",
+    "color":null,
+    "style":"Industrial",
+    "width_mm":1279.0,
+    "depth_mm":1279.0,
+    "height_mm":129.0,
+    "volume_mm3":211023489.0,
+    "footprint_mm2":1635841.0,
+    "storage_score":0.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07HPKX8SW",
+    "name":"Amazon Brand -\u00a0Alkove Sofia Hand-Crafted Leather Sofa, 2 Seater Maxi, 90 x 190 x 77cm, Light Grey",
+    "category":"sofa",
+    "brand":"Alkove",
+    "color":"Grey",
+    "style":"Modern",
+    "width_mm":1900.0,
+    "depth_mm":900.0,
+    "height_mm":770.0,
+    "volume_mm3":1316700000.0,
+    "footprint_mm2":1710000.0,
+    "storage_score":15.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  },
+  {
+    "id":"B07H8SK66F",
+    "name":"Marca Amazon -\u00a0Movian Elsa - Mesa de comedor, 180 cm (roble canyon)",
+    "category":"table",
+    "brand":"Movian",
+    "color":"Roble Canyon",
+    "style":"Mesa de Comedor 180cm",
+    "width_mm":900.0,
+    "depth_mm":1800.0,
+    "height_mm":790.0,
+    "volume_mm3":1279800000.0,
+    "footprint_mm2":1620000.0,
+    "storage_score":20.0,
+    "room_types":[
+      "living room",
+      "office"
+    ],
+    "storage_indicator":{
+      "living room":"-",
+      "office":"-"
+    }
+  },
+  {
+    "id":"B07TGC2DT5",
+    "name":"Amazon Brand - Movian Sils - Silla de comedor, 46,5 x 63 x 80 cm, gris",
+    "category":"chair",
+    "brand":"Movian",
+    "color":"Gris",
+    "style":"Silla de comedor",
+    "width_mm":630.0,
+    "depth_mm":465.0,
+    "height_mm":800.0,
+    "volume_mm3":234360000.0,
+    "footprint_mm2":292950.0,
+    "storage_score":81.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"+",
+      "bedroom":"+"
+    }
+  },
+  {
+    "id":"B085FHVGWV",
+    "name":"Amazon Brand \u2013 Ravenna Home Recliner Chair, 37\"W, Beige",
+    "category":"chair",
+    "brand":"Ravenna Home",
+    "color":"Beige",
+    "style":"Classic",
+    "width_mm":900.0,
+    "depth_mm":940.0,
+    "height_mm":1010.0,
+    "volume_mm3":854460000.0,
+    "footprint_mm2":846000.0,
+    "storage_score":51.0,
+    "room_types":[
+      "office",
+      "living room",
+      "bedroom"
+    ],
+    "storage_indicator":{
+      "office":"+",
+      "living room":"-",
+      "bedroom":"-"
+    }
+  },
+  {
+    "id":"B07JCDQWM6",
+    "name":"Amazon Brand \u2013 Rivet Thomas Modern Leather Sofa Couch, 81.5\"W, Chestnut",
+    "category":"sofa",
+    "brand":"Rivet",
+    "color":"Chestnut",
+    "style":"Modern",
+    "width_mm":1039.0,
+    "depth_mm":2070.0,
+    "height_mm":681.0,
+    "volume_mm3":1464647130.0,
+    "footprint_mm2":2150730.0,
+    "storage_score":5.0,
+    "room_types":[
+      "living room"
+    ],
+    "storage_indicator":{
+      "living room":"-"
+    }
+  }
+]

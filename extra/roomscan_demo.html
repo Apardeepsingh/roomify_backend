@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RoomScan — Marketplace Demo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#E8EAEE;
+    --paper-2:#DEE1E7;
+    --surface:#FFFFFF;
+    --ink:#14161B;
+    --slate:#5B6472;
+    --line:#C7CCD4;
+    --signal:#2742E6;
+    --signal-soft:#E5E8FD;
+    --plus:#1E844A;
+    --plus-soft:#E2F2E8;
+    --minus:#C0392B;
+    --minus-soft:#F8E7E4;
+    --display:'Space Grotesk',system-ui,sans-serif;
+    --body:'Inter',system-ui,sans-serif;
+    --mono:'Space Mono',ui-monospace,monospace;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{-webkit-font-smoothing:antialiased}
+  body{
+    font-family:var(--body);
+    background:var(--paper);
+    color:var(--ink);
+    line-height:1.5;
+    padding:28px 22px 60px;
+  }
+  .wrap{max-width:1120px;margin:0 auto}
+
+  /* ---- viewfinder bracket motif ---- */
+  .frame{position:relative}
+  .frame::before,.frame::after,
+  .frame > .br-tl,.frame > .br-tr,.frame > .br-bl,.frame > .br-br{}
+  .bracket{position:absolute;width:14px;height:14px;border:2px solid var(--signal);pointer-events:none}
+  .b-tl{top:-1px;left:-1px;border-right:none;border-bottom:none}
+  .b-tr{top:-1px;right:-1px;border-left:none;border-bottom:none}
+  .b-bl{bottom:-1px;left:-1px;border-right:none;border-top:none}
+  .b-br{bottom:-1px;right:-1px;border-left:none;border-top:none}
+
+  /* ---- header ---- */
+  header{margin-bottom:26px}
+  .eyebrow{
+    font-family:var(--mono);
+    font-size:11px;letter-spacing:.22em;text-transform:uppercase;
+    color:var(--signal);display:flex;align-items:center;gap:9px;margin-bottom:14px;
+  }
+  .eyebrow .dot{width:7px;height:7px;background:var(--signal);border-radius:50%;
+    box-shadow:0 0 0 4px var(--signal-soft)}
+  h1{
+    font-family:var(--display);font-weight:700;font-size:clamp(30px,5vw,46px);
+    letter-spacing:-.02em;line-height:1.02;margin-bottom:12px;
+  }
+  h1 .scan{color:var(--signal)}
+  .sub{font-size:15px;color:var(--slate);max-width:560px}
+
+  /* ---- control bar ---- */
+  .controls{
+    background:var(--surface);border:1px solid var(--line);
+    padding:18px 20px;margin:24px 0 8px;position:relative;
+  }
+  .ctl-row{display:flex;flex-wrap:wrap;align-items:center;gap:14px}
+  .ctl-row + .ctl-row{margin-top:16px;padding-top:16px;border-top:1px dashed var(--line)}
+  .ctl-label{
+    font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--slate);min-width:78px;
+  }
+  .rooms{display:flex;gap:8px;flex-wrap:wrap}
+  .room-btn{
+    font-family:var(--display);font-weight:500;font-size:14px;
+    padding:9px 18px;border:1.5px solid var(--ink);background:transparent;color:var(--ink);
+    cursor:pointer;transition:all .15s ease;border-radius:2px;
+  }
+  .room-btn:hover{background:var(--paper-2)}
+  .room-btn.active{background:var(--ink);color:#fff;border-color:var(--ink)}
+  .room-btn .ico{margin-right:7px}
+
+  .chips{display:flex;gap:7px;flex-wrap:wrap}
+  .chip{
+    font-size:13px;font-family:var(--body);font-weight:500;
+    padding:6px 13px;border:1px solid var(--line);background:var(--paper);
+    color:var(--slate);cursor:pointer;border-radius:20px;transition:all .14s ease;
+    display:inline-flex;align-items:center;gap:6px;
+  }
+  .chip:hover{border-color:var(--slate)}
+  .chip.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+  .chip .x{font-family:var(--mono);font-size:11px;opacity:.7}
+
+  .toggle{display:inline-flex;align-items:center;gap:9px;cursor:pointer;user-select:none;margin-left:auto}
+  .toggle .tlabel{font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--slate)}
+  .switch{width:40px;height:22px;background:var(--line);border-radius:20px;position:relative;transition:background .16s}
+  .switch::after{content:"";position:absolute;top:2px;left:2px;width:18px;height:18px;background:#fff;border-radius:50%;transition:transform .16s;box-shadow:0 1px 2px rgba(0,0,0,.2)}
+  .toggle.on .switch{background:var(--signal)}
+  .toggle.on .switch::after{transform:translateX(18px)}
+
+  /* ---- section heads ---- */
+  .sec-head{display:flex;align-items:baseline;gap:14px;margin:38px 0 16px}
+  .sec-num{font-family:var(--mono);font-size:12px;color:var(--signal);letter-spacing:.1em}
+  .sec-title{font-family:var(--display);font-weight:600;font-size:21px;letter-spacing:-.01em}
+  .sec-meta{font-family:var(--mono);font-size:12px;color:var(--slate);margin-left:auto}
+
+  /* ---- recommendation cards ---- */
+  .recs{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  .rec{
+    background:var(--ink);color:#fff;padding:18px 18px 16px;position:relative;
+    display:flex;flex-direction:column;min-height:188px;
+  }
+  .rec .rank{font-family:var(--mono);font-size:11px;color:#8c93a3;letter-spacing:.1em;margin-bottom:10px}
+  .rec .rname{font-family:var(--display);font-weight:600;font-size:16px;line-height:1.22;margin-bottom:4px}
+  .rec .rcat{font-family:var(--mono);font-size:11px;color:#aab0bd;text-transform:uppercase;letter-spacing:.1em;margin-bottom:14px}
+  .rec .why{font-size:12.5px;color:#cfd3db;margin-top:auto;border-top:1px solid #2b2f38;padding-top:11px}
+  .rec .why b{color:#fff;font-weight:600}
+  .rec .bars{display:flex;gap:14px;margin-top:9px}
+  .rec .barwrap{flex:1}
+  .rec .barwrap span{font-family:var(--mono);font-size:9.5px;color:#8c93a3;letter-spacing:.08em;display:block;margin-bottom:3px}
+  .rec .bar{height:4px;background:#2b2f38;border-radius:2px;overflow:hidden}
+  .rec .bar i{display:block;height:100%;background:var(--signal)}
+  .rec .bar.taste i{background:#6f7df0}
+
+  /* ---- marketplace grid ---- */
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(248px,1fr));gap:14px}
+  .card{
+    background:var(--surface);border:1px solid var(--line);padding:16px;
+    position:relative;transition:transform .14s ease,box-shadow .14s ease;
+    display:flex;flex-direction:column;
+  }
+  .card:hover{transform:translateY(-3px);box-shadow:0 8px 22px rgba(20,22,27,.10)}
+  .card .top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;margin-bottom:12px}
+  .card .glyph{flex-shrink:0}
+  .card .cname{font-family:var(--display);font-weight:600;font-size:15px;line-height:1.22}
+  .card .ccat{font-family:var(--mono);font-size:10.5px;color:var(--slate);text-transform:uppercase;letter-spacing:.1em;margin-top:3px}
+  .badge{
+    font-family:var(--mono);font-weight:700;font-size:15px;width:30px;height:30px;
+    display:flex;align-items:center;justify-content:center;flex-shrink:0;border-radius:3px;
+  }
+  .badge.plus{background:var(--plus-soft);color:var(--plus)}
+  .badge.minus{background:var(--minus-soft);color:var(--minus)}
+  .dims{font-family:var(--mono);font-size:11px;color:var(--slate);margin-bottom:13px}
+  .store{margin-top:auto}
+  .store .slabel{display:flex;justify-content:space-between;font-family:var(--mono);font-size:10px;letter-spacing:.08em;color:var(--slate);text-transform:uppercase;margin-bottom:5px}
+  .store .slabel b{color:var(--ink)}
+  .sbar{height:6px;background:var(--paper-2);border-radius:3px;overflow:hidden}
+  .sbar i{display:block;height:100%;background:var(--signal);transition:width .4s ease}
+  .meta-line{font-family:var(--mono);font-size:10.5px;color:var(--slate);margin-top:11px;padding-top:10px;border-top:1px dashed var(--line)}
+  .meta-line .ind{font-weight:700}
+  .meta-line .ind.plus{color:var(--plus)}
+  .meta-line .ind.minus{color:var(--minus)}
+
+  .empty{grid-column:1/-1;text-align:center;padding:48px 0;color:var(--slate);font-family:var(--mono);font-size:13px}
+
+  footer{margin-top:46px;padding-top:20px;border-top:1px solid var(--line);
+    font-family:var(--mono);font-size:11px;color:var(--slate);line-height:1.7}
+  footer b{color:var(--ink)}
+
+  @media(max-width:720px){
+    .recs{grid-template-columns:1fr}
+    .toggle{margin-left:0}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="eyebrow"><span class="dot"></span>RoomScan · Marketplace Demo</div>
+    <h1>Scan a room. See what <span class="scan">fits</span>,<br>what's worth it, what to add.</h1>
+    <p class="sub">A room-aware furniture marketplace. Pick a room and it filters the catalog, scores each item on storage efficiency, and recommends what the room is actually missing.</p>
+  </header>
+
+  <div class="controls frame">
+    <span class="bracket b-tl"></span><span class="bracket b-tr"></span>
+    <span class="bracket b-bl"></span><span class="bracket b-br"></span>
+
+    <div class="ctl-row">
+      <span class="ctl-label">Room</span>
+      <div class="rooms" id="rooms">
+        <button class="room-btn active" data-room="bedroom"><span class="ico">⌧</span>Bedroom</button>
+        <button class="room-btn" data-room="living room"><span class="ico">⌧</span>Living room</button>
+        <button class="room-btn" data-room="office"><span class="ico">⌧</span>Office</button>
+      </div>
+    </div>
+
+    <div class="ctl-row">
+      <span class="ctl-label">You own</span>
+      <div class="chips" id="ownChips"></div>
+      <label class="toggle on" id="tasteToggle">
+        <span class="tlabel">Style match</span>
+        <span class="switch"></span>
+      </label>
+    </div>
+  </div>
+
+  <div class="sec-head">
+    <span class="sec-num">01</span>
+    <span class="sec-title">Recommended for this room</span>
+    <span class="sec-meta" id="recMeta"></span>
+  </div>
+  <div class="recs" id="recs"></div>
+
+  <div class="sec-head">
+    <span class="sec-num">02</span>
+    <span class="sec-title">Marketplace</span>
+    <span class="sec-meta" id="mktMeta"></span>
+  </div>
+  <div class="grid" id="grid"></div>
+
+  <footer>
+    <b>How it works.</b> Storage score is real, derived from each item's height vs. its floor footprint (tall + small base = efficient).
+    Room types are assigned per category. The +/- badge updates per room: storage matters more in an office than a living room, so the same item can flip.<br>
+    <b>Recommender:</b> filters to the selected room, drops categories you already own, then ranks by what the room needs, with style match as the tie-breaker.
+  </footer>
+
+</div>
+
+<script>
+/* ----------------------------------------------------------
+   Catalog — sample data matching the real catalog.json schema.
+   Swap this array for your real catalog to go fully live.
+---------------------------------------------------------- */
+const CATALOG = [
+  // id, name, category, brand, color, style, w, d, h, storage(0-100)
+  ["bed_1","Dorffel Upholstered Bed","bed","Stone & Beam","Gray","Classic",1980,2130,1170,9],
+  ["bed_2","Rivet Platform Bed","bed","Rivet","Walnut","Mid-Century",1650,2110,250,12],
+  ["drs_1","Ken951 6-Drawer Dresser","dresser","Ravenna Home","White","Farmhouse",1470,460,820,58],
+  ["drs_2","Movian Wide Dresser","dresser","Movian","Oak","Scandinavian",1200,450,900,55],
+  ["sof_1","Westview Extra-Deep Sofa","sofa","Stone & Beam","Hazelnut","Classic",2290,1020,910,7],
+  ["sof_2","Eva Tufted Sofa","sofa","Rivet","Teal","Mid-Century",1830,910,840,11],
+  ["sof_3","Brisson Loveseat","sofa","Stone & Beam","Charcoal","Modern",1520,890,800,14],
+  ["ott_1","Pope Storage Ottoman","ottoman","Ravenna Home","Beige","Transitional",970,560,420,49],
+  ["ott_2","Hamilton Round Ottoman","ottoman","Rivet","Mustard","Mid-Century",660,660,400,46],
+  ["bnc_1","Lewis Entryway Bench","bench","Stone & Beam","Natural","Farmhouse",1120,360,480,34],
+  ["bnc_2","Strand Storage Bench","bench","Ravenna Home","Gray","Modern",1020,400,500,40],
+  ["chr_1","Pinebrook Accent Chair","chair","Stone & Beam","Linen","Traditional",760,820,920,65],
+  ["chr_2","Contemporary Office Chair","chair","Rivet","Black","Modern",640,620,1110,67],
+  ["chr_3","Larkin Lounge Chair","chair","Stone & Beam","Sage","Casual",780,840,880,62],
+  ["chr_4","Racing-Style Gaming Chair","chair","AmazonBasics","Red","Sport",680,680,1280,70],
+  ["chr_5","Fischer Sleeper Chair","chair","Stone & Beam","Denim","Casual",900,950,860,60],
+  ["dsk_1","Springdale Writing Desk","desk","Ravenna Home","White","Farmhouse",1120,560,760,72],
+  ["dsk_2","Mjosa Compact Desk with Hutch","desk","Movian","Oak","Scandinavian",900,500,1450,88],
+  ["dsk_3","Classic Office Desk","desk","Rivet","Walnut","Mid-Century",1200,600,740,58],
+  ["tbl_1","Bristol Live-Edge Coffee Table","table","Rivet","Natural","Industrial",1120,610,450,30],
+  ["tbl_2","Angela Side Table","table","Ravenna Home","White","Modern",460,460,610,37],
+  ["tbl_3","Bateman Console Table","table","Stone & Beam","Rustic Oak","Farmhouse",1170,400,760,77],
+  ["tbl_4","Mars Dining Table","table","Solimo","Walnut","Contemporary",1500,900,750,41],
+  ["shf_1","Iris 5-Tier Shelf Unit","shelf","Iris","Brown","Industrial",740,300,1800,96],
+  ["shf_2","Kyyvesi Round Shelf","shelf","Movian","Black","Modern",600,300,1700,98],
+  ["shf_3","Rustic Metal Wall Shelf","shelf","Stone & Beam","Bronze","Industrial",900,250,1100,93],
+  ["shf_4","Solimo Corner Shelf","shelf","Solimo","White","Minimal",350,350,1300,90],
+  ["cab_1","Corona 3-Door Wardrobe","cabinet","Vida Designs","Pine","Rustic",1110,520,1810,78],
+  ["cab_2","Movian 2-Door Credenza","cabinet","Movian","Oak","Scandinavian",1200,400,800,84],
+  ["cab_3","Larkin Storage Cabinet","cabinet","Stone & Beam","White","Farmhouse",800,400,1600,80],
+].map(a=>({
+  id:a[0],name:a[1],category:a[2],brand:a[3],color:a[4],style:a[5],
+  w:a[6],d:a[7],h:a[8],storage:a[9]
+}));
+
+// category -> rooms it belongs to
+const ROOM_TYPES = {
+  bed:["bedroom"], dresser:["bedroom"], sofa:["living room"], ottoman:["living room"],
+  bench:["living room","bedroom"], chair:["office","living room","bedroom"],
+  desk:["office"], table:["living room","office"],
+  shelf:["office","living room","bedroom"], cabinet:["office","living room","bedroom"]
+};
+// storage score needed to earn a "+" in each room (lower = room values storage more)
+const ROOM_CUTOFF = { office:40, bedroom:55, "living room":70 };
+const ESSENTIAL = new Set(["bed","sofa","table","desk","chair","shelf"]);
+
+CATALOG.forEach(p=>{ p.rooms = ROOM_TYPES[p.category] || []; });
+
+function indicatorFor(p, room){
+  if(!p.rooms.includes(room)) return null;
+  return p.storage >= ROOM_CUTOFF[room] ? "+" : "-";
+}
+
+/* ---- owned items (drives need + taste) ---- */
+const OWN_OPTIONS = [
+  {key:"bed_1",  label:"Gray Bed",       category:"bed",   tokens:"stone beam gray classic bed upholstered"},
+  {key:"sof_2",  label:"Teal Sofa",      category:"sofa",  tokens:"rivet teal mid-century sofa tufted"},
+  {key:"dsk_3",  label:"Walnut Desk",    category:"desk",  tokens:"rivet walnut mid-century office desk"},
+  {key:"tbl_4",  label:"Dining Table",   category:"table", tokens:"solimo walnut contemporary dining table"},
+];
+const owned = new Set(["bed_1","sof_2"]); // default
+
+/* ---- taste: token-overlap stand-in for the embedding model ---- */
+function tokens(s){ return new Set(String(s).toLowerCase().split(/[^a-z0-9]+/).filter(Boolean)); }
+function sim(aTok, bTok){
+  let inter=0; aTok.forEach(t=>{ if(bTok.has(t)) inter++; });
+  if(aTok.size===0||bTok.size===0) return 0;
+  return inter/Math.sqrt(aTok.size*bTok.size);
+}
+function tasteScore(p){
+  const ownObjs=[...owned].map(k=>OWN_OPTIONS.find(o=>o.key===k)).filter(Boolean);
+  if(ownObjs.length===0) return 0;
+  const pt=tokens(p.name+" "+p.brand+" "+p.style+" "+p.color);
+  let s=0; ownObjs.forEach(o=>{ s+=sim(pt, tokens(o.tokens)); });
+  return s/ownObjs.length;
+}
+function needScore(p){
+  const ownedCats=new Set([...owned].map(k=>OWN_OPTIONS.find(o=>o.key===k)?.category));
+  if(ownedCats.has(p.category)) return 0;
+  return ESSENTIAL.has(p.category) ? 1 : 0.3;
+}
+
+/* ---- state ---- */
+let currentRoom="bedroom";
+let useTaste=true;
+const W_NEED=0.7, W_TASTE=0.3;
+
+/* ---- render ---- */
+function glyph(p){
+  // tiny scaled side-profile: width x height, hints at footprint vs height
+  const maxW=34,maxH=34;
+  const scale=Math.min(maxW/Math.max(p.w,p.h), maxH/Math.max(p.w,p.h))* (Math.max(p.w,p.h)/Math.max(p.w,p.h));
+  const ww=Math.max(6, Math.round(p.w/2300*maxW));
+  const hh=Math.max(4, Math.round(p.h/2300*maxH));
+  return `<svg width="${maxW}" height="${maxH}" viewBox="0 0 ${maxW} ${maxH}">
+    <rect x="${(maxW-ww)/2}" y="${maxH-hh}" width="${ww}" height="${hh}" fill="none" stroke="#2742E6" stroke-width="1.4"/>
+  </svg>`;
+}
+
+function renderChips(){
+  document.getElementById("ownChips").innerHTML = OWN_OPTIONS.map(o=>
+    `<button class="chip ${owned.has(o.key)?'on':''}" data-own="${o.key}">${o.label}<span class="x">${owned.has(o.key)?'✓':'+'}</span></button>`
+  ).join("");
+}
+
+function renderRecs(items){
+  const scored = items.map(p=>{
+    const need=needScore(p), taste=useTaste?tasteScore(p):0;
+    const score=useTaste ? (W_NEED*need + W_TASTE*taste) : need;
+    return {p,need,taste,score};
+  }).filter(x=>x.need>0)        // don't recommend categories you already own
+    .sort((a,b)=>b.score-a.score)
+    .slice(0,3);
+
+  const recMeta=document.getElementById("recMeta");
+  document.getElementById("recs").innerHTML = scored.map((x,i)=>{
+    const need=x.need>=1?"missing essential":(x.need>0?"nice to add":"");
+    const tastePct=Math.round(Math.min(x.taste*100*2,100)); // visual scale
+    return `<div class="rec">
+      <div class="rank">PICK ${String(i+1).padStart(2,'0')}</div>
+      <div class="rname">${x.p.name}</div>
+      <div class="rcat">${x.p.category}</div>
+      <div class="why">
+        <b>${x.p.category[0].toUpperCase()+x.p.category.slice(1)}</b> — your ${currentRoom} has none yet.
+        ${useTaste && x.taste>0.02 ? `Style fits what you own.` : ``}
+        <div class="bars">
+          <div class="barwrap"><span>NEED</span><div class="bar"><i style="width:${Math.round(x.need*100)}%"></i></div></div>
+          ${useTaste?`<div class="barwrap"><span>STYLE</span><div class="bar taste"><i style="width:${tastePct}%"></i></div></div>`:``}
+        </div>
+      </div>
+    </div>`;
+  }).join("");
+  recMeta.textContent = scored.length? `${scored.length} picks · ${useTaste?'need + style':'need only'}` : "nothing missing";
+  if(scored.length===0){
+    document.getElementById("recs").innerHTML=`<div class="empty" style="background:var(--ink);color:#aab0bd">You already own every essential for this room.</div>`;
+  }
+}
+
+function renderGrid(items){
+  const sorted=[...items].sort((a,b)=>b.storage-a.storage);
+  document.getElementById("mktMeta").textContent=`${items.length} items fit this ${currentRoom}`;
+  if(items.length===0){
+    document.getElementById("grid").innerHTML=`<div class="empty">No catalog items mapped to this room.</div>`;
+    return;
+  }
+  document.getElementById("grid").innerHTML = sorted.map(p=>{
+    const ind=indicatorFor(p,currentRoom);
+    const badge = ind==="+" ? `<div class="badge plus">+</div>` : `<div class="badge minus">−</div>`;
+    return `<div class="card">
+      <div class="top">
+        <div>
+          <div class="cname">${p.name}</div>
+          <div class="ccat">${p.category} · ${p.brand}</div>
+        </div>
+        ${badge}
+      </div>
+      <div class="dims">${p.w} × ${p.d} × ${p.h} mm</div>
+      <div class="store">
+        <div class="slabel"><span>Storage efficiency</span><b>${p.storage}</b></div>
+        <div class="sbar"><i style="width:${p.storage}%"></i></div>
+      </div>
+      <div class="meta-line">In ${currentRoom}: <span class="ind ${ind==='+'?'plus':'minus'}">${ind==='+'?'+ good for storage':'− low storage value'}</span></div>
+    </div>`;
+  }).join("");
+}
+
+function render(){
+  const items=CATALOG.filter(p=>p.rooms.includes(currentRoom));
+  renderChips();
+  renderRecs(items);
+  renderGrid(items);
+}
+
+/* ---- events ---- */
+document.getElementById("rooms").addEventListener("click",e=>{
+  const b=e.target.closest(".room-btn"); if(!b)return;
+  document.querySelectorAll(".room-btn").forEach(x=>x.classList.remove("active"));
+  b.classList.add("active");
+  currentRoom=b.dataset.room;
+  render();
+});
+document.getElementById("ownChips").addEventListener("click",e=>{
+  const b=e.target.closest(".chip"); if(!b)return;
+  const k=b.dataset.own;
+  owned.has(k)?owned.delete(k):owned.add(k);
+  render();
+});
+document.getElementById("tasteToggle").addEventListener("click",function(){
+  useTaste=!useTaste;
+  this.classList.toggle("on",useTaste);
+  render();
+});
+
+render();
+</script>
+</body>
+</html>
